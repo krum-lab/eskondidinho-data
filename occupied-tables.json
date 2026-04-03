@@ -1,0 +1,42 @@
+{
+  "updated_at": "2026-04-03T11:33:39.290575",
+  "events": {
+    "22439": {
+      "date": "2026-04-03",
+      "name": "Gigantes da Vaneira",
+      "occupied": [
+        3
+      ]
+    },
+    "22441": {
+      "date": "2026-04-04",
+      "name": "Forrónejo",
+      "occupied": []
+    },
+    "22443": {
+      "date": "2026-04-10",
+      "name": "Bora Bailar",
+      "occupied": []
+    },
+    "22445": {
+      "date": "2026-04-11",
+      "name": "Flashback Scootter",
+      "occupied": []
+    },
+    "22447": {
+      "date": "2026-04-17",
+      "name": "Grupo Modão",
+      "occupied": []
+    },
+    "22449": {
+      "date": "2026-04-20",
+      "name": "GDO",
+      "occupied": []
+    },
+    "22451": {
+      "date": "2026-04-24",
+      "name": "Chê Lokêdo",
+      "occupied": []
+    }
+  }
+}
