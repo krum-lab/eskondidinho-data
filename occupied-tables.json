@@ -1,22 +1,27 @@
 {
-  "updated_at": "2026-04-03T13:24:58.458483",
+  "updated_at": "2026-04-03T13:26:39.511010",
   "events": {
     "22439": {
       "date": "2026-04-03",
       "name": "Gigantes da Vaneira",
       "occupied": [
-        3
+        3,
+        13
       ]
     },
     "22441": {
       "date": "2026-04-04",
       "name": "Forrónejo",
-      "occupied": []
+      "occupied": [
+        13
+      ]
     },
     "22443": {
       "date": "2026-04-10",
       "name": "Bora Bailar",
-      "occupied": []
+      "occupied": [
+        13
+      ]
     },
     "22445": {
       "date": "2026-04-11",
