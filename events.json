@@ -1,0 +1,137 @@
+{
+    "month": "Abril",
+    "updated_at": "2026-04-01T12:38:08",
+    "events": [
+        {
+            "id_ingresso": "22438",
+            "id_reserva": "22439",
+            "date": "2026-04-03",
+            "day": "03",
+            "weekday": "SEXTA",
+            "weekday_full": "Sexta-feira",
+            "time": "22:00",
+            "name": "Gigantes da Vaneira",
+            "bands": [
+                "Novos Garotos",
+                "Mário Junior",
+                "Ricardo & Juninho…"
+            ],
+            "bands_text": "Novos Garotos • Mário Junior • Ricardo & Juninho…",
+            "promo": "ELAS FREE ATÉ 23H",
+            "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/gigantes-da-vaneira-com-novos-garotos-mario-junior-ricardo-juninho-elas-free-ate-23h__22438/",
+            "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-0304-gigantes-da-vaneira-com-novos-garotos-mario-junior-ricardo-juninho-elas-free-ate-23h__22439/"
+        },
+        {
+            "id_ingresso": "22440",
+            "id_reserva": "22441",
+            "date": "2026-04-04",
+            "day": "04",
+            "weekday": "SÁBADO",
+            "weekday_full": "Sábado",
+            "time": "22:00",
+            "name": "Forrónejo",
+            "bands": [
+                "Ricardo & Juninho",
+                "Samuka & Brasinha"
+            ],
+            "bands_text": "Ricardo & Juninho • Samuka & Brasinha",
+            "promo": "FREE UNISSEX ATÉ 23H",
+            "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/forronejo-ricardo-juninho-samuka-brasinha-free-unissex-ate-23h__22440/",
+            "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-0404-forronejo-ricardo-juninho-samuka-brasinha-free-unissex-ate-23h__22441/"
+        },
+        {
+            "id_ingresso": "22442",
+            "id_reserva": "22443",
+            "date": "2026-04-10",
+            "day": "10",
+            "weekday": "SEXTA",
+            "weekday_full": "Sexta-feira",
+            "time": "22:00",
+            "name": "Bora Bailar",
+            "bands": [
+                "Legião Gaúcha",
+                "Ricardo & Juninho",
+                "Samuka & Brasinha …"
+            ],
+            "bands_text": "Legião Gaúcha • Ricardo & Juninho • Samuka & Brasinha …",
+            "promo": "ELAS FREE ATÉ 23H",
+            "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/bora-bailar-com-legiao-gaucha-ricardo-juninho-samuka-brasinha-elas-free-ate-23h__22442/",
+            "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1004-bora-bailar-com-legiao-gaucha-ricardo-juninho-samuka-brasinha-elas-free-ate-23h__22443/"
+        },
+        {
+            "id_ingresso": "22444",
+            "id_reserva": "22445",
+            "date": "2026-04-11",
+            "day": "11",
+            "weekday": "SÁBADO",
+            "weekday_full": "Sábado",
+            "time": "22:00",
+            "name": "Flashback Scootter",
+            "bands": [
+                "Dj Farley",
+                "Dj Tatú"
+            ],
+            "bands_text": "Dj Farley • Dj Tatú",
+            "promo": "",
+            "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/flashback-scootter-dj-farley-dj-tatu__22444/",
+            "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1104-flashback-scootter-dj-farley-dj-tatu__22445/"
+        },
+        {
+            "id_ingresso": "22446",
+            "id_reserva": "22447",
+            "date": "2026-04-17",
+            "day": "17",
+            "weekday": "SEXTA",
+            "weekday_full": "Sexta-feira",
+            "time": "22:00",
+            "name": "Grupo Modão",
+            "bands": [
+                "Grupo Modão",
+                "Ricardo & Juninho",
+                "Samuka & Brasinha"
+            ],
+            "bands_text": "Grupo Modão • Ricardo & Juninho • Samuka & Brasinha",
+            "promo": "ELAS FREE ATÉ 23H",
+            "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/grupo-modao-ricardo-juninho-samuka-brasinha-elas-free-ate-23h__22446/",
+            "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1704-grupo-modao-ricardo-juninho-samuka-brasinha-elas-free-ate-23h__22447/"
+        },
+        {
+            "id_ingresso": "22448",
+            "id_reserva": "22449",
+            "date": "2026-04-20",
+            "day": "20",
+            "weekday": "SEGUNDA",
+            "weekday_full": "Segunda-feira",
+            "time": "22:00",
+            "name": "GDO",
+            "bands": [
+                "GDO",
+                "Garotos de Ouro",
+                "Ricardo & Juninho"
+            ],
+            "bands_text": "GDO • Garotos de Ouro • Ricardo & Juninho",
+            "promo": "ELAS FREE ATÉ 23H",
+            "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/gdo-garotos-de-ouro-ricardo-juninho-elas-free-ate-23h__22448/",
+            "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-2004-gdo-garotos-de-ouro-ricardo-juninho-elas-free-ate-23h__22449/"
+        },
+        {
+            "id_ingresso": "22450",
+            "id_reserva": "22451",
+            "date": "2026-04-24",
+            "day": "24",
+            "weekday": "SEXTA",
+            "weekday_full": "Sexta-feira",
+            "time": "22:00",
+            "name": "Chê Lokêdo",
+            "bands": [
+                "Chê Lokêdo",
+                "Ricardo & Juninho",
+                "Samuka & Brasinha"
+            ],
+            "bands_text": "Chê Lokêdo • Ricardo & Juninho • Samuka & Brasinha",
+            "promo": "ELAS FREE ATÉ 23H",
+            "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/che-lokedo-ricardo-juninho-samuka-brasinha-elas-free-ate-23h__22450/",
+            "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-2404-che-lokedo-ricardo-juninho-samuka-brasinha-elas-free-ate-23h__22451/"
+        }
+    ]
+}
