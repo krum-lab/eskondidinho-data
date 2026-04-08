@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08T05:00:57.631158",
+  "updated_at": "2026-04-08T05:06:26.630286",
   "events": {
     "22443": {
       "date": "2026-04-10",
@@ -12,16 +12,12 @@
     "22445": {
       "date": "2026-04-11",
       "name": "Flashback Scootter",
-      "occupied": [
-        13
-      ]
+      "occupied": []
     },
     "22447": {
       "date": "2026-04-17",
       "name": "Grupo Modão",
-      "occupied": [
-        13
-      ]
+      "occupied": []
     },
     "22449": {
       "date": "2026-04-20",
