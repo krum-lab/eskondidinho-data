@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08T13:21:22.440785",
+  "updated_at": "2026-04-08T13:25:06.061079",
   "events": {
     "22443": {
       "date": "2026-04-10",
@@ -12,23 +12,17 @@
     "22445": {
       "date": "2026-04-11",
       "name": "Flashback Scootter",
-      "occupied": [
-        13
-      ]
+      "occupied": []
     },
     "22447": {
       "date": "2026-04-17",
       "name": "Grupo Modão",
-      "occupied": [
-        13
-      ]
+      "occupied": []
     },
     "22449": {
       "date": "2026-04-20",
       "name": "GDO",
-      "occupied": [
-        13
-      ]
+      "occupied": []
     },
     "22451": {
       "date": "2026-04-24",
