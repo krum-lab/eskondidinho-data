@@ -1,10 +1,12 @@
 {
-  "updated_at": "2026-04-29T13:48:57.172327",
+  "updated_at": "2026-04-29T13:50:50.532047",
   "events": {
     "23084": {
       "date": "2026-05-01",
       "name": "Mega Tribaile do Trabalhador",
-      "occupied": []
+      "occupied": [
+        9
+      ]
     },
     "23086": {
       "date": "2026-05-02",
