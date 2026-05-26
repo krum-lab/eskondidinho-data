@@ -1,6 +1,6 @@
 {
     "month": "Maio",
-    "updated_at": "2026-05-26T13:05:45",
+    "updated_at": "2026-05-26T13:19:53",
     "events": [
         {
             "id_ingresso": "23095",
@@ -31,9 +31,12 @@
             "time": "22:00",
             "name": "Mega Tri Baile",
             "bands": [
-                "Novos Garotos - Banda Gdó - Garotos de Ouro - Elas Free …"
+                "Novos Garotos",
+                "Banda Gdó",
+                "Garotos de Ouro",
+                "Elas Free …"
             ],
-            "bands_text": "Novos Garotos - Banda Gdó - Garotos de Ouro - Elas Free …",
+            "bands_text": "Novos Garotos • Banda Gdó • Garotos de Ouro • Elas Free …",
             "promo": "ELAS FREE ATÉ 23H",
             "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/mega-tri-baile-novos-garotos-banda-gdo-garotos-de-ouro-elas-free-ate-23h__23787/",
             "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-0306-mega-tri-baile-novos-garotos-banda-gdo-garotos-de-ouro-elas-free-ate-23h__23788/"
