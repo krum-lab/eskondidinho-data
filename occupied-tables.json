@@ -1,11 +1,12 @@
 {
-  "updated_at": "2026-05-26T23:21:56.673130",
+  "updated_at": "2026-05-26T23:22:46.068619",
   "events": {
     "23096": {
       "date": "2026-05-29",
       "name": "Mega Baile dos Amigos",
       "occupied": [
         6,
+        9,
         10,
         13,
         14,
