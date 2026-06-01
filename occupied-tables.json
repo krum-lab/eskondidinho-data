@@ -1,10 +1,12 @@
 {
-  "updated_at": "2026-06-01T22:15:30.871639",
+  "updated_at": "2026-06-01T22:16:10.837898",
   "events": {
     "23788": {
       "date": "2026-06-03",
       "name": "Mega Tri Baile",
-      "occupied": []
+      "occupied": [
+        14
+      ]
     }
   }
 }
