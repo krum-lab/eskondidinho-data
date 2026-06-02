@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T19:25:01.735082",
+  "updated_at": "2026-06-02T19:26:45.401998",
   "events": {
     "23788": {
       "date": "2026-06-03",
@@ -9,6 +9,36 @@
         13,
         14
       ]
+    },
+    "23962": {
+      "date": "2026-06-05",
+      "name": "Forrónejo",
+      "occupied": []
+    },
+    "23964": {
+      "date": "2026-06-12",
+      "name": "Baile dos Namorados",
+      "occupied": []
+    },
+    "23966": {
+      "date": "2026-06-19",
+      "name": "Gigante da Vaneira",
+      "occupied": []
+    },
+    "23968": {
+      "date": "2026-06-20",
+      "name": "Sabadão Top",
+      "occupied": []
+    },
+    "23970": {
+      "date": "2026-06-26",
+      "name": "Super Sexta",
+      "occupied": []
+    },
+    "23972": {
+      "date": "2026-06-27",
+      "name": "Flashback do Eskondidinho",
+      "occupied": []
     }
   }
 }
