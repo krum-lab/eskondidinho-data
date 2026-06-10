@@ -1,136 +1,99 @@
 {
-  "month": "Junho",
-  "updated_at": "2026-06-02T16:18:32",
-  "events": [
-    {
-      "id_ingresso": "23787",
-      "id_reserva": "23788",
-      "date": "2026-06-03",
-      "day": "03",
-      "weekday": "QUARTA",
-      "weekday_full": "Quarta-feira",
-      "time": "22:00",
-      "name": "Mega Tri Baile",
-      "bands": [
-        "Novos Garotos",
-        "Banda Gdó",
-        "Garotos de Ouro"
-      ],
-      "bands_text": "Novos Garotos • Banda Gdó • Garotos de Ouro",
-      "promo": "ELAS FREE ATÉ 23H",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/mega-tri-baile-novos-garotos-banda-gdo-garotos-de-ouro-elas-free-ate-23h__23787/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-0306-mega-tri-baile-novos-garotos-banda-gdo-garotos-de-ouro-elas-free-ate-23h__23788/"
-    },
-    {
-      "id_ingresso": "23961",
-      "id_reserva": "23962",
-      "date": "2026-06-05",
-      "day": "05",
-      "weekday": "SEXTA",
-      "weekday_full": "Sexta-feira",
-      "time": "22:00",
-      "name": "Forrónejo",
-      "bands": [
-        "Ricardo & Juninho",
-        "Samuka & Brasinha"
-      ],
-      "bands_text": "Ricardo & Juninho • Samuka & Brasinha",
-      "promo": "FREE UNISSEX ATÉ 23H",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/forronejo-ricardo-juninho-samuka-brasinha-free-unissex-ate-23h__23961/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-0506-forronejo__23962/"
-    },
-    {
-      "id_ingresso": "23963",
-      "id_reserva": "23964",
-      "date": "2026-06-12",
-      "day": "12",
-      "weekday": "SEXTA",
-      "weekday_full": "Sexta-feira",
-      "time": "22:00",
-      "name": "Baile dos Namorados",
-      "bands": [
-        "As Garotinhas de Ouro",
-        "Ricardo & Juninho",
-        "Samuka …"
-      ],
-      "bands_text": "As Garotinhas de Ouro • Ricardo & Juninho • Samuka …",
-      "promo": "ELAS FREE ATÉ 23H",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/baile-dos-namorados-as-garotinhas-de-ouro-ricardo-juninho-samuka-brasinha-portal-gaucho-elas-free-ate-23h__23963/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1206-baile-dos-namorados__23964/"
-    },
-    {
-      "id_ingresso": "23965",
-      "id_reserva": "23966",
-      "date": "2026-06-19",
-      "day": "19",
-      "weekday": "SEXTA",
-      "weekday_full": "Sexta-feira",
-      "time": "22:00",
-      "name": "Gigante da Vaneira",
-      "bands": [
-        "Ricardo & Juninho",
-        "Samuka & Brasinha",
-        "Legião Gaúch…"
-      ],
-      "bands_text": "Ricardo & Juninho • Samuka & Brasinha • Legião Gaúch…",
-      "promo": "ELAS FREE ATÉ 23H",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/gigante-da-vaneira-ricardo-juninho-samuka-brasinha-legiao-gaucha-elas-free-ate-23h__23965/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1906-gigante-da-vaneira__23966/"
-    },
-    {
-      "id_ingresso": "23967",
-      "id_reserva": "23968",
-      "date": "2026-06-20",
-      "day": "20",
-      "weekday": "SÁBADO",
-      "weekday_full": "Sábado",
-      "time": "22:00",
-      "name": "Sabadão Top",
-      "bands": [
-        "Ricardo & Juninho",
-        "Samuka & Brasinha",
-        "Wilceu Pause"
-      ],
-      "bands_text": "Ricardo & Juninho • Samuka & Brasinha • Wilceu Pause",
-      "promo": "",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/sabadao-top-ricardo-juninho-samuka-brasinha-wilceu-pause__23967/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-2006-sabadao-top__23968/"
-    },
-    {
-      "id_ingresso": "23969",
-      "id_reserva": "23970",
-      "date": "2026-06-26",
-      "day": "26",
-      "weekday": "SEXTA",
-      "weekday_full": "Sexta-feira",
-      "time": "22:00",
-      "name": "Super Sexta",
-      "bands": [
-        "Ricardo & Juninho",
-        "Samuka & Brasinha",
-        "Grupo Modão"
-      ],
-      "bands_text": "Ricardo & Juninho • Samuka & Brasinha • Grupo Modão",
-      "promo": "ELAS FREE ATÉ 23H",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/super-sexta-2606-ricardo-juninho-samuka-brasinha-grupo-modao-elas-free-ate-23h__23969/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-2606-super-sexta-2606__23970/"
-    },
-    {
-      "id_ingresso": "23971",
-      "id_reserva": "23972",
-      "date": "2026-06-27",
-      "day": "27",
-      "weekday": "SÁBADO",
-      "weekday_full": "Sábado",
-      "time": "22:00",
-      "name": "Flashback do Eskondidinho",
-      "bands": [
-        "Flashback do Eskondidinho"
-      ],
-      "bands_text": "Flashback do Eskondidinho",
-      "promo": "",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/flashback-do-eskondidinho__23971/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-2706-flashback-do-eskondidinho__23972/"
-    }
-  ]
+    "month": "Junho",
+    "updated_at": "2026-06-10T17:27:44",
+    "events": [
+        {
+            "id_ingresso": "23963",
+            "id_reserva": "23964",
+            "date": "2026-06-12",
+            "day": "12",
+            "weekday": "SEXTA",
+            "weekday_full": "Sexta-feira",
+            "time": "22:00",
+            "name": "Baile dos Namorados",
+            "bands": [
+                "As Garotinhas de Ouro",
+                "Ricardo & Juninho",
+                "Samuka …"
+            ],
+            "bands_text": "As Garotinhas de Ouro • Ricardo & Juninho • Samuka …",
+            "promo": "ELAS FREE ATÉ 23H",
+            "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/baile-dos-namorados-as-garotinhas-de-ouro-ricardo-juninho-samuka-brasinha-portal-gaucho-elas-free-ate-23h__23963/",
+            "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1206-baile-dos-namorados__23964/"
+        },
+        {
+            "id_ingresso": "23965",
+            "id_reserva": "23966",
+            "date": "2026-06-19",
+            "day": "19",
+            "weekday": "SEXTA",
+            "weekday_full": "Sexta-feira",
+            "time": "22:00",
+            "name": "Gigante da Vaneira",
+            "bands": [
+                "Ricardo & Juninho",
+                "Samuka & Brasinha",
+                "Legião Gaúch…"
+            ],
+            "bands_text": "Ricardo & Juninho • Samuka & Brasinha • Legião Gaúch…",
+            "promo": "ELAS FREE ATÉ 23H",
+            "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/gigante-da-vaneira-ricardo-juninho-samuka-brasinha-legiao-gaucha-elas-free-ate-23h__23965/",
+            "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1906-gigante-da-vaneira__23966/"
+        },
+        {
+            "id_ingresso": "23967",
+            "id_reserva": "23968",
+            "date": "2026-06-20",
+            "day": "20",
+            "weekday": "SÁBADO",
+            "weekday_full": "Sábado",
+            "time": "22:00",
+            "name": "Sabadão Top",
+            "bands": [
+                "Ricardo & Juninho",
+                "Samuka & Brasinha",
+                "Wilceu Pause"
+            ],
+            "bands_text": "Ricardo & Juninho • Samuka & Brasinha • Wilceu Pause",
+            "promo": "",
+            "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/sabadao-top-ricardo-juninho-samuka-brasinha-wilceu-pause__23967/",
+            "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-2006-sabadao-top__23968/"
+        },
+        {
+            "id_ingresso": "23969",
+            "id_reserva": "23970",
+            "date": "2026-06-26",
+            "day": "26",
+            "weekday": "SEXTA",
+            "weekday_full": "Sexta-feira",
+            "time": "22:00",
+            "name": "Baile da Sorte",
+            "bands": [
+                "Dj Alef",
+                "Grupo Modão",
+                "Talagaço"
+            ],
+            "bands_text": "Dj Alef • Grupo Modão • Talagaço",
+            "promo": "",
+            "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/baile-da-sorte-dj-alef-grupo-modao-talagaco__23969/",
+            "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-2606-baile-da-sorte-dj-alef-grupo-modao-talagaco__23970/"
+        },
+        {
+            "id_ingresso": "23971",
+            "id_reserva": "23972",
+            "date": "2026-06-27",
+            "day": "27",
+            "weekday": "SÁBADO",
+            "weekday_full": "Sábado",
+            "time": "22:00",
+            "name": "Flashback do Eskondidinho",
+            "bands": [
+                "Flashback do Eskondidinho"
+            ],
+            "bands_text": "Flashback do Eskondidinho",
+            "promo": "",
+            "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/flashback-do-eskondidinho__23971/",
+            "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-2706-flashback-do-eskondidinho__23972/"
+        }
+    ]
 }
