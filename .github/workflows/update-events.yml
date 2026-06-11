@@ -46,15 +46,28 @@ jobs:
           PYTHONIOENCODING: utf-8
         run: python update_events.py
 
-      - name: Commit changes if any
-        # update_events.py já pusha via API; mas garante backup caso falhe
+      - name: Commit changes if any (backup, com retry)
+        # update_events.py já pusha via API atômica. Este step é defesa em
+        # profundidade caso a API falhe. Sem o pull --rebase, race com o
+        # mesa-scraper (que pusha occupied-tables.json em paralelo) faz o
+        # push ser rejeitado e o workflow inteiro falhar.
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add events.json || true
-          if ! git diff --cached --quiet; then
-            git commit -m "events: auto-update from PagTickets [skip ci]"
-            git push
-          else
-            echo "Nenhuma mudança detectada — nada a commitar."
+          if git diff --cached --quiet; then
+            echo "Nenhuma mudança local detectada — provavelmente API push do update_events.py já cuidou."
+            exit 0
           fi
+          git commit -m "events: auto-update from PagTickets [skip ci]"
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase --no-edit origin main || true
+            if git push origin main; then
+              echo "✅ Push ok no attempt $attempt"
+              exit 0
+            fi
+            echo "⚠️ Push rejeitado no attempt $attempt — alguém pushou em paralelo. Retry em ${attempt}s..."
+            sleep $attempt
+          done
+          echo "❌ Falhou após 5 tentativas. Ignorando — update_events.py provavelmente pushou via API."
+          exit 0
