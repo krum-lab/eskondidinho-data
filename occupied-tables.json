@@ -1,10 +1,11 @@
 {
-  "updated_at": "2026-06-12T22:16:26.274195",
+  "updated_at": "2026-06-12T22:17:47.672670",
   "events": {
     "23964": {
       "date": "2026-06-12",
       "name": "Baile dos Namorados",
       "occupied": [
+        7,
         13,
         20,
         30,
