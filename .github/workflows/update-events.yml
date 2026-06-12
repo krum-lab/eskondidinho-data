@@ -1,9 +1,13 @@
-name: Auto-update events from PagTickets
+name: Auto-update events from PagTickets (DEPRECATED — moved to Railway)
+
+# Schedule removido em 2026-06-12: PagTickets bloqueia o IP dos runners
+# GitHub Actions com HTTP 405. Mesa-scraper Railway agora roda
+# update_events.py em paralelo no mesmo container — IP nao bloqueado,
+# zero custo adicional. Veja eskondidinho-site/start.sh.
+#
+# Mantemos workflow_dispatch caso algum dia precise testar manual aqui.
 
 on:
-  schedule:
-    # A cada 5 minutos (GitHub não permite menor que isso)
-    - cron: '*/5 * * * *'
   workflow_dispatch:  # botão "Run workflow" no GitHub pra rodar manual
 
 # Permissões: só o necessário pra commitar no próprio repo
