@@ -1,26 +1,7 @@
 {
   "month": "Junho",
-  "updated_at": "2026-06-12T11:24:43",
+  "updated_at": "2026-06-13T07:04:23",
   "events": [
-    {
-      "id_ingresso": "23963",
-      "id_reserva": "23964",
-      "date": "2026-06-12",
-      "day": "12",
-      "weekday": "SEXTA",
-      "weekday_full": "Sexta-feira",
-      "time": "22:00",
-      "name": "Baile dos Namorados",
-      "bands": [
-        "As Garotinhas de Ouro",
-        "Ricardo & Juninho",
-        "Samuka …"
-      ],
-      "bands_text": "As Garotinhas de Ouro • Ricardo & Juninho • Samuka …",
-      "promo": "ELAS FREE ATÉ 23H",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/baile-dos-namorados-as-garotinhas-de-ouro-ricardo-juninho-samuka-brasinha-portal-gaucho-elas-free-ate-23h__23963/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1206-baile-dos-namorados__23964/"
-    },
     {
       "id_ingresso": "23965",
       "id_reserva": "23966",
