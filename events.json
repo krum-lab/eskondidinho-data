@@ -1,7 +1,45 @@
 {
   "month": "Junho",
-  "updated_at": "2026-06-24T04:05:00",
+  "updated_at": "2026-06-27T07:02:27",
   "events": [
+    {
+      "id_ingresso": "23965",
+      "id_reserva": "23966",
+      "date": "2026-06-19",
+      "day": "19",
+      "weekday": "SEXTA",
+      "weekday_full": "Sexta-feira",
+      "time": "22:00",
+      "name": "Gigante da Vaneira",
+      "bands": [
+        "Ricardo & Juninho",
+        "Samuka & Brasinha",
+        "Legião Gaúch…"
+      ],
+      "bands_text": "Ricardo & Juninho • Samuka & Brasinha • Legião Gaúch…",
+      "promo": "FREE UNISSEX ATÉ AS 23H",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/gigante-da-vaneira-ricardo-juninho-samuka-brasinha-legiao-gaucha-free-unissex-ate-23h__23965/",
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1906-gigante-da-vaneira__23966/"
+    },
+    {
+      "id_ingresso": "23967",
+      "id_reserva": "23968",
+      "date": "2026-06-20",
+      "day": "20",
+      "weekday": "SÁBADO",
+      "weekday_full": "Sábado",
+      "time": "22:00",
+      "name": "Sabadão Top",
+      "bands": [
+        "Ricardo & Juninho",
+        "Samuka & Brasinha",
+        "Wilceu Pause"
+      ],
+      "bands_text": "Ricardo & Juninho • Samuka & Brasinha • Wilceu Pause",
+      "promo": "",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/sabadao-top-ricardo-juninho-samuka-brasinha-wilceu-pause__23967/",
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-2006-sabadao-top__23968/"
+    },
     {
       "id_ingresso": "23969",
       "id_reserva": "23970",
