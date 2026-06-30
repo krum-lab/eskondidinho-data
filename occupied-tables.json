@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T07:45:57.230699",
+  "updated_at": "2026-06-30T07:47:17.196797",
   "events": {
     "24479": {
       "date": "2026-07-03",
@@ -14,6 +14,16 @@
     "24483": {
       "date": "2026-07-10",
       "name": "Encontro de Gigantes",
+      "occupied": []
+    },
+    "24485": {
+      "date": "2026-07-11",
+      "name": "Flashback do Eskondidinho",
+      "occupied": []
+    },
+    "24487": {
+      "date": "2026-07-17",
+      "name": "Arraiou",
       "occupied": []
     }
   }
