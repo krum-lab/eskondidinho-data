@@ -1,6 +1,6 @@
 {
   "month": "Julho",
-  "updated_at": "2026-06-30T07:33:26",
+  "updated_at": "2026-06-30T16:50:37",
   "events": [
     {
       "id_ingresso": "24478",
@@ -96,6 +96,25 @@
       "promo": "",
       "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/arraiou-joao-luiz-correa-legiao-gaucha-ricardo-juninho-samuka-brasinha__24486/",
       "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1707-arraiou__24487/"
+    },
+    {
+      "id_ingresso": "24501",
+      "id_reserva": "",
+      "date": "2026-07-24",
+      "day": "24",
+      "weekday": "SEXTA",
+      "weekday_full": "Sexta-feira",
+      "time": "22:00",
+      "name": "Super Sexta",
+      "bands": [
+        "Campeiraço",
+        "Ricardo & Juninho",
+        "Samuka & Brasinha"
+      ],
+      "bands_text": "Campeiraço • Ricardo & Juninho • Samuka & Brasinha",
+      "promo": "",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/super-sexta-campeiraco-ricardo-juninho-samuka-brasinha__24501/",
+      "link_reserva": ""
     }
   ]
 }
