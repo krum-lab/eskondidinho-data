@@ -1,6 +1,6 @@
 {
   "month": "Julho",
-  "updated_at": "2026-06-30T07:23:21",
+  "updated_at": "2026-06-30T07:28:23",
   "events": [
     {
       "id_ingresso": "24478",
@@ -59,6 +59,23 @@
       "promo": "",
       "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/encontro-de-gigantes-candieiro-novos-garotos-dj-alef__24482/",
       "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1007-encontro-de-gigantes__24483/"
+    },
+    {
+      "id_ingresso": "24484",
+      "id_reserva": "24485",
+      "date": "2026-07-11",
+      "day": "11",
+      "weekday": "SÁBADO",
+      "weekday_full": "Sábado",
+      "time": "22:00",
+      "name": "Flashback do Eskondidinho",
+      "bands": [
+        "Flashback do Eskondidinho"
+      ],
+      "bands_text": "Flashback do Eskondidinho",
+      "promo": "",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/flashback-do-eskondidinho__24484/",
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1107-flashback-do-eskondidinho__24485/"
     }
   ]
 }
