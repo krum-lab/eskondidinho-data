@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-06-30T07:26:04.229770",
+  "updated_at": "2026-06-30T07:27:03.920463",
   "events": {
-    "23972": {
-      "date": "2026-06-27",
-      "name": "Flashback do Eskondidinho",
-      "occupied": [
-        15
-      ]
+    "24479": {
+      "date": "2026-07-03",
+      "name": "Grupo Minuano",
+      "occupied": []
+    },
+    "24481": {
+      "date": "2026-07-04",
+      "name": "Sabadão Top",
+      "occupied": []
+    },
+    "24483": {
+      "date": "2026-07-10",
+      "name": "Encontro de Gigantes",
+      "occupied": []
     }
   }
 }
