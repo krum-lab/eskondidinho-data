@@ -1,26 +1,7 @@
 {
   "month": "Junho",
-  "updated_at": "2026-06-27T07:02:27",
+  "updated_at": "2026-06-30T07:18:19",
   "events": [
-    {
-      "id_ingresso": "23965",
-      "id_reserva": "23966",
-      "date": "2026-06-19",
-      "day": "19",
-      "weekday": "SEXTA",
-      "weekday_full": "Sexta-feira",
-      "time": "22:00",
-      "name": "Gigante da Vaneira",
-      "bands": [
-        "Ricardo & Juninho",
-        "Samuka & Brasinha",
-        "Legião Gaúch…"
-      ],
-      "bands_text": "Ricardo & Juninho • Samuka & Brasinha • Legião Gaúch…",
-      "promo": "FREE UNISSEX ATÉ AS 23H",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/gigante-da-vaneira-ricardo-juninho-samuka-brasinha-legiao-gaucha-free-unissex-ate-23h__23965/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1906-gigante-da-vaneira__23966/"
-    },
     {
       "id_ingresso": "23967",
       "id_reserva": "23968",
@@ -75,6 +56,45 @@
       "promo": "",
       "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/flashback-do-eskondidinho__23971/",
       "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-2706-flashback-do-eskondidinho__23972/"
+    },
+    {
+      "id_ingresso": "24478",
+      "id_reserva": "24479",
+      "date": "2026-07-03",
+      "day": "03",
+      "weekday": "SEXTA",
+      "weekday_full": "Sexta-feira",
+      "time": "22:00",
+      "name": "Grupo Minuano",
+      "bands": [
+        "Grupo Minuano",
+        "Fábio Quaraí",
+        "Ricardo & Juninho",
+        "Samuka & Brasinha"
+      ],
+      "bands_text": "Grupo Minuano • Fábio Quaraí • Ricardo & Juninho • Samuka & Brasinha",
+      "promo": "",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/grupo-minuano-fabio-quarai-ricardo-juninho-samuka-brasinha__24478/",
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-0307-grupo-minuano__24479/"
+    },
+    {
+      "id_ingresso": "24480",
+      "id_reserva": "",
+      "date": "2026-07-04",
+      "day": "04",
+      "weekday": "SÁBADO",
+      "weekday_full": "Sábado",
+      "time": "22:00",
+      "name": "Sabadão Top",
+      "bands": [
+        "Musical JM",
+        "Explode Coração",
+        "DJ Alef"
+      ],
+      "bands_text": "Musical JM • Explode Coração • DJ Alef",
+      "promo": "",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/sabadao-top-musical-jm-explode-coracao-dj-alef__24480/",
+      "link_reserva": ""
     }
   ]
 }
