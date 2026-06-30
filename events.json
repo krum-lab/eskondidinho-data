@@ -1,62 +1,7 @@
 {
-  "month": "Junho",
-  "updated_at": "2026-06-30T07:18:19",
+  "month": "Julho",
+  "updated_at": "2026-06-30T07:23:21",
   "events": [
-    {
-      "id_ingresso": "23967",
-      "id_reserva": "23968",
-      "date": "2026-06-20",
-      "day": "20",
-      "weekday": "SÁBADO",
-      "weekday_full": "Sábado",
-      "time": "22:00",
-      "name": "Sabadão Top",
-      "bands": [
-        "Ricardo & Juninho",
-        "Samuka & Brasinha",
-        "Wilceu Pause"
-      ],
-      "bands_text": "Ricardo & Juninho • Samuka & Brasinha • Wilceu Pause",
-      "promo": "",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/sabadao-top-ricardo-juninho-samuka-brasinha-wilceu-pause__23967/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-2006-sabadao-top__23968/"
-    },
-    {
-      "id_ingresso": "23969",
-      "id_reserva": "23970",
-      "date": "2026-06-26",
-      "day": "26",
-      "weekday": "SEXTA",
-      "weekday_full": "Sexta-feira",
-      "time": "22:00",
-      "name": "Baile da Sorte",
-      "bands": [
-        "Dj Alef",
-        "Grupo Modão",
-        "Talagaço"
-      ],
-      "bands_text": "Dj Alef • Grupo Modão • Talagaço",
-      "promo": "",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/baile-da-sorte-dj-alef-grupo-modao-talagaco__23969/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-2606-baile-da-sorte-dj-alef-grupo-modao-talagaco__23970/"
-    },
-    {
-      "id_ingresso": "23971",
-      "id_reserva": "23972",
-      "date": "2026-06-27",
-      "day": "27",
-      "weekday": "SÁBADO",
-      "weekday_full": "Sábado",
-      "time": "22:00",
-      "name": "Flashback do Eskondidinho",
-      "bands": [
-        "Flashback do Eskondidinho"
-      ],
-      "bands_text": "Flashback do Eskondidinho",
-      "promo": "",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/flashback-do-eskondidinho__23971/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-2706-flashback-do-eskondidinho__23972/"
-    },
     {
       "id_ingresso": "24478",
       "id_reserva": "24479",
@@ -79,7 +24,7 @@
     },
     {
       "id_ingresso": "24480",
-      "id_reserva": "",
+      "id_reserva": "24481",
       "date": "2026-07-04",
       "day": "04",
       "weekday": "SÁBADO",
@@ -94,7 +39,26 @@
       "bands_text": "Musical JM • Explode Coração • DJ Alef",
       "promo": "",
       "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/sabadao-top-musical-jm-explode-coracao-dj-alef__24480/",
-      "link_reserva": ""
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-0407-sabadao-top__24481/"
+    },
+    {
+      "id_ingresso": "24482",
+      "id_reserva": "24483",
+      "date": "2026-07-10",
+      "day": "10",
+      "weekday": "SEXTA",
+      "weekday_full": "Sexta-feira",
+      "time": "22:00",
+      "name": "Encontro de Gigantes",
+      "bands": [
+        "Candieiro",
+        "Novos Garotos",
+        "DJ Alef"
+      ],
+      "bands_text": "Candieiro • Novos Garotos • DJ Alef",
+      "promo": "",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/encontro-de-gigantes-candieiro-novos-garotos-dj-alef__24482/",
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1007-encontro-de-gigantes__24483/"
     }
   ]
 }
