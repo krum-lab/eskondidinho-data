@@ -1,6 +1,6 @@
 {
   "month": "Julho",
-  "updated_at": "2026-06-30T16:55:39",
+  "updated_at": "2026-06-30T17:00:41",
   "events": [
     {
       "id_ingresso": "24478",
@@ -118,7 +118,7 @@
     },
     {
       "id_ingresso": "24504",
-      "id_reserva": "",
+      "id_reserva": "24505",
       "date": "2026-07-31",
       "day": "31",
       "weekday": "SEXTA",
@@ -133,7 +133,7 @@
       "bands_text": "Ricardo & Juninho • Samuka & Brasinha • DJ Alef",
       "promo": "",
       "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/forronejo-ricardo-juninho-samuka-brasinha-dj-alef__24504/",
-      "link_reserva": ""
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-3107-forronejo__24505/"
     }
   ]
 }
