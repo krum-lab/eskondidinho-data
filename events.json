@@ -1,6 +1,6 @@
 {
   "month": "Julho",
-  "updated_at": "2026-06-30T15:43:59",
+  "updated_at": "2026-06-30T22:11:55",
   "events": [
     {
       "id_ingresso": "24478",
@@ -18,7 +18,7 @@
         "Samuka & Brasinha"
       ],
       "bands_text": "Grupo Minuano • Fábio Quaraí • Ricardo & Juninho • Samuka & Brasinha",
-      "promo": "ELAS FREE ATÉ 23H",
+      "promo": "",
       "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/grupo-minuano-fabio-quarai-ricardo-juninho-samuka-brasinha__24478/",
       "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-0307-grupo-minuano__24479/"
     },
@@ -56,7 +56,7 @@
         "DJ Alef"
       ],
       "bands_text": "Candieiro • Novos Garotos • DJ Alef",
-      "promo": "ELAS FREE ATÉ 23H",
+      "promo": "",
       "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/encontro-de-gigantes-candieiro-novos-garotos-dj-alef__24482/",
       "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1007-encontro-de-gigantes__24483/"
     },
@@ -99,22 +99,22 @@
     },
     {
       "id_ingresso": "24501",
-      "id_reserva": "24503",
+      "id_reserva": "",
       "date": "2026-07-24",
       "day": "24",
       "weekday": "SEXTA",
       "weekday_full": "Sexta-feira",
       "time": "22:00",
-      "name": "Super Sexta",
+      "name": "Baile da Sorte (2ª edição)",
       "bands": [
+        "Musical San Francisco",
         "Campeiraço",
-        "Ricardo & Juninho",
-        "Samuka & Brasinha"
+        "Ricardo…"
       ],
-      "bands_text": "Campeiraço • Ricardo & Juninho • Samuka & Brasinha",
-      "promo": "FREE UNISSEX ATÉ 23H",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/super-sexta-campeiraco-ricardo-juninho-samuka-brasinha__24501/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-2407-super-sexta__24503/"
+      "bands_text": "Musical San Francisco • Campeiraço • Ricardo…",
+      "promo": "",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/baile-da-sorte-2a-edicao-musical-san-francisco-campeiraco-ricardo-juninho__24501/",
+      "link_reserva": ""
     },
     {
       "id_ingresso": "24504",
@@ -131,7 +131,7 @@
         "DJ Alef"
       ],
       "bands_text": "Ricardo & Juninho • Samuka & Brasinha • DJ Alef",
-      "promo": "FREE UNISSEX ATÉ 23H",
+      "promo": "",
       "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/forronejo-ricardo-juninho-samuka-brasinha-dj-alef__24504/",
       "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-3107-forronejo__24505/"
     }
