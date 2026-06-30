@@ -1,6 +1,6 @@
 {
   "month": "Julho",
-  "updated_at": "2026-06-30T16:50:37",
+  "updated_at": "2026-06-30T16:55:39",
   "events": [
     {
       "id_ingresso": "24478",
@@ -114,6 +114,25 @@
       "bands_text": "Campeiraço • Ricardo & Juninho • Samuka & Brasinha",
       "promo": "",
       "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/super-sexta-campeiraco-ricardo-juninho-samuka-brasinha__24501/",
+      "link_reserva": ""
+    },
+    {
+      "id_ingresso": "24504",
+      "id_reserva": "",
+      "date": "2026-07-31",
+      "day": "31",
+      "weekday": "SEXTA",
+      "weekday_full": "Sexta-feira",
+      "time": "22:00",
+      "name": "Forrónejo",
+      "bands": [
+        "Ricardo & Juninho",
+        "Samuka & Brasinha",
+        "DJ Alef"
+      ],
+      "bands_text": "Ricardo & Juninho • Samuka & Brasinha • DJ Alef",
+      "promo": "",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/forronejo-ricardo-juninho-samuka-brasinha-dj-alef__24504/",
       "link_reserva": ""
     }
   ]
