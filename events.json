@@ -1,6 +1,6 @@
 {
   "month": "Julho",
-  "updated_at": "2026-06-30T07:28:23",
+  "updated_at": "2026-06-30T07:33:26",
   "events": [
     {
       "id_ingresso": "24478",
@@ -76,6 +76,26 @@
       "promo": "",
       "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/flashback-do-eskondidinho__24484/",
       "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1107-flashback-do-eskondidinho__24485/"
+    },
+    {
+      "id_ingresso": "24486",
+      "id_reserva": "24487",
+      "date": "2026-07-17",
+      "day": "17",
+      "weekday": "SEXTA",
+      "weekday_full": "Sexta-feira",
+      "time": "21:00",
+      "name": "Arraiou",
+      "bands": [
+        "João Luiz Corrêa",
+        "Legião Gaúcha",
+        "Ricardo & Juninho",
+        "Samuka &…"
+      ],
+      "bands_text": "João Luiz Corrêa • Legião Gaúcha • Ricardo & Juninho • Samuka &…",
+      "promo": "",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/arraiou-joao-luiz-correa-legiao-gaucha-ricardo-juninho-samuka-brasinha__24486/",
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1707-arraiou__24487/"
     }
   ]
 }
