@@ -1,27 +1,7 @@
 {
   "month": "Julho",
-  "updated_at": "2026-07-01T13:03:16",
+  "updated_at": "2026-07-04T07:04:07",
   "events": [
-    {
-      "id_ingresso": "24478",
-      "id_reserva": "24479",
-      "date": "2026-07-03",
-      "day": "03",
-      "weekday": "SEXTA",
-      "weekday_full": "Sexta-feira",
-      "time": "22:00",
-      "name": "Grupo Minuano",
-      "bands": [
-        "Grupo Minuano",
-        "Fábio Quaraí",
-        "Ricardo & Juninho",
-        "Samuka & Brasinha"
-      ],
-      "bands_text": "Grupo Minuano • Fábio Quaraí • Ricardo & Juninho • Samuka & Brasinha",
-      "promo": "ELAS FREE ATÉ 23H",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/grupo-minuano-fabio-quarai-ricardo-juninho-samuka-brasinha__24478/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-0307-grupo-minuano__24479/"
-    },
     {
       "id_ingresso": "24480",
       "id_reserva": "24481",
