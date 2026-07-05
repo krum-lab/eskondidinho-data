@@ -1,26 +1,7 @@
 {
   "month": "Julho",
-  "updated_at": "2026-07-04T07:04:07",
+  "updated_at": "2026-07-05T07:04:46",
   "events": [
-    {
-      "id_ingresso": "24480",
-      "id_reserva": "24481",
-      "date": "2026-07-04",
-      "day": "04",
-      "weekday": "SÁBADO",
-      "weekday_full": "Sábado",
-      "time": "22:00",
-      "name": "Sabadão Top",
-      "bands": [
-        "Musical JM",
-        "Explode Coração",
-        "DJ Alef"
-      ],
-      "bands_text": "Musical JM • Explode Coração • DJ Alef",
-      "promo": "",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/sabadao-top-musical-jm-explode-coracao-dj-alef__24480/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-0407-sabadao-top__24481/"
-    },
     {
       "id_ingresso": "24482",
       "id_reserva": "24483",
