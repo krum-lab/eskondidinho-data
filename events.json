@@ -1,6 +1,6 @@
 {
   "month": "Julho",
-  "updated_at": "2026-07-05T07:04:46",
+  "updated_at": "2026-07-10T00:36:29",
   "events": [
     {
       "id_ingresso": "24482",
@@ -66,15 +66,15 @@
       "weekday": "SEXTA",
       "weekday_full": "Sexta-feira",
       "time": "22:00",
-      "name": "Baile da Sorte (2ª edição)",
+      "name": "Sexta Premiada",
       "bands": [
-        "Musical San Francisco",
-        "Campeiraço",
-        "Ricardo…"
+        "San Francisco",
+        "Ricardo Reis e Juninho",
+        "Samuka e Brasinha"
       ],
-      "bands_text": "Musical San Francisco • Campeiraço • Ricardo…",
+      "bands_text": "San Francisco • Ricardo Reis e Juninho • Samuka e Brasinha",
       "promo": "",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/baile-da-sorte-2a-edicao-musical-san-francisco-campeiraco-ricardo-juninho__24501/",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/sexta-premiada-san-francisco-ricardo-reis-e-juninho-samuka-e-brasinha__24501/",
       "link_reserva": ""
     },
     {
