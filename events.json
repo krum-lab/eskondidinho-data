@@ -1,26 +1,7 @@
 {
   "month": "Julho",
-  "updated_at": "2026-07-10T00:36:29",
+  "updated_at": "2026-07-11T07:03:43",
   "events": [
-    {
-      "id_ingresso": "24482",
-      "id_reserva": "24483",
-      "date": "2026-07-10",
-      "day": "10",
-      "weekday": "SEXTA",
-      "weekday_full": "Sexta-feira",
-      "time": "22:00",
-      "name": "Encontro de Gigantes",
-      "bands": [
-        "Candieiro",
-        "Novos Garotos",
-        "DJ Alef"
-      ],
-      "bands_text": "Candieiro • Novos Garotos • DJ Alef",
-      "promo": "ELAS FREE ATÉ AS 23H",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/encontro-de-gigantes-candieiro-novos-garotos-dj-alef__24482/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1007-encontro-de-gigantes__24483/"
-    },
     {
       "id_ingresso": "24484",
       "id_reserva": "24485",
