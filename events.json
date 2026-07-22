@@ -1,27 +1,7 @@
 {
   "month": "Julho",
-  "updated_at": "2026-07-15T19:23:39",
+  "updated_at": "2026-07-22T14:38:15",
   "events": [
-    {
-      "id_ingresso": "24486",
-      "id_reserva": "24487",
-      "date": "2026-07-17",
-      "day": "17",
-      "weekday": "SEXTA",
-      "weekday_full": "Sexta-feira",
-      "time": "21:00",
-      "name": "Arraiou",
-      "bands": [
-        "João Luiz Corrêa",
-        "Legião Gaúcha",
-        "Ricardo & Juninho",
-        "Samuka &…"
-      ],
-      "bands_text": "João Luiz Corrêa • Legião Gaúcha • Ricardo & Juninho • Samuka &…",
-      "promo": "ELAS FREE ATÉ 22H",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/arraiou-joao-luiz-correa-legiao-gaucha-ricardo-juninho-samuka-brasinha__24486/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1707-arraiou__24487/"
-    },
     {
       "id_ingresso": "24501",
       "id_reserva": "",
@@ -49,16 +29,15 @@
       "weekday": "SEXTA",
       "weekday_full": "Sexta-feira",
       "time": "22:00",
-      "name": "Forrónejo",
+      "name": "Rota Musical",
       "bands": [
         "Ricardo & Juninho",
-        "Samuka & Brasinha",
         "DJ Alef"
       ],
-      "bands_text": "Ricardo & Juninho • Samuka & Brasinha • DJ Alef",
+      "bands_text": "Ricardo & Juninho • DJ Alef",
       "promo": "FREE UNISSEX ATÉ 23H",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/forronejo-ricardo-juninho-samuka-brasinha-dj-alef__24504/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-3107-forronejo__24505/"
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/rota-musical-ricardo-juninho-dj-alef__24504/",
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-3107-rota-musical__24505/"
     }
   ]
 }
