@@ -1,10 +1,10 @@
 {
   "month": "Julho",
-  "updated_at": "2026-07-22T14:38:15",
+  "updated_at": "2026-07-22T14:39:37",
   "events": [
     {
       "id_ingresso": "24501",
-      "id_reserva": "",
+      "id_reserva": "24503",
       "date": "2026-07-24",
       "day": "24",
       "weekday": "SEXTA",
@@ -19,7 +19,7 @@
       "bands_text": "San Francisco • Ricardo Reis e Juninho • Samuka e Brasinha",
       "promo": "",
       "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/sexta-premiada-san-francisco-ricardo-reis-e-juninho-samuka-e-brasinha__24501/",
-      "link_reserva": ""
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-2407-sexta-premiada__24503/"
     },
     {
       "id_ingresso": "24504",
@@ -35,7 +35,7 @@
         "DJ Alef"
       ],
       "bands_text": "Ricardo & Juninho • DJ Alef",
-      "promo": "FREE UNISSEX ATÉ 23H",
+      "promo": "ELAS FREE ATÉ 23H",
       "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/rota-musical-ricardo-juninho-dj-alef__24504/",
       "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-3107-rota-musical__24505/"
     }
