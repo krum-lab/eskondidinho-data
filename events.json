@@ -1,6 +1,6 @@
 {
   "month": "Julho",
-  "updated_at": "2026-07-26T04:12:32",
+  "updated_at": "2026-07-26T06:00:03",
   "events": [
     {
       "id_ingresso": "24504",
@@ -106,14 +106,14 @@
       "weekday": "SÁBADO",
       "weekday_full": "Sábado",
       "time": "22:00",
-      "name": "Flashback Scootter",
+      "name": "Flashback Scooter",
       "bands": [
-        "Flashback Scootter"
+        "Flashback Scooter"
       ],
-      "bands_text": "Flashback Scootter",
+      "bands_text": "Flashback Scooter",
       "promo": "",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/flashback-scootter__25003/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-2208-flashback-scootter__25004/"
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/flashback-scooter__25003/",
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-2208-flashback-scooter__25004/"
     },
     {
       "id_ingresso": "25005",
