@@ -1,26 +1,7 @@
 {
   "month": "Julho",
-  "updated_at": "2026-07-22T14:39:37",
+  "updated_at": "2026-07-26T00:49:40",
   "events": [
-    {
-      "id_ingresso": "24501",
-      "id_reserva": "24503",
-      "date": "2026-07-24",
-      "day": "24",
-      "weekday": "SEXTA",
-      "weekday_full": "Sexta-feira",
-      "time": "22:00",
-      "name": "Sexta Premiada",
-      "bands": [
-        "San Francisco",
-        "Ricardo Reis e Juninho",
-        "Samuka e Brasinha"
-      ],
-      "bands_text": "San Francisco • Ricardo Reis e Juninho • Samuka e Brasinha",
-      "promo": "",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/sexta-premiada-san-francisco-ricardo-reis-e-juninho-samuka-e-brasinha__24501/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-2407-sexta-premiada__24503/"
-    },
     {
       "id_ingresso": "24504",
       "id_reserva": "24505",
@@ -38,6 +19,120 @@
       "promo": "ELAS FREE ATÉ 23H",
       "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/rota-musical-ricardo-juninho-dj-alef__24504/",
       "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-3107-rota-musical__24505/"
+    },
+    {
+      "id_ingresso": "24995",
+      "id_reserva": "24996",
+      "date": "2026-08-07",
+      "day": "07",
+      "weekday": "SEXTA",
+      "weekday_full": "Sexta-feira",
+      "time": "22:00",
+      "name": "Super Sexta",
+      "bands": [
+        "Campeiraço",
+        "Ricardo & Juninho",
+        "Samuka & Brasinha",
+        "DJ Ale…"
+      ],
+      "bands_text": "Campeiraço • Ricardo & Juninho • Samuka & Brasinha • DJ Ale…",
+      "promo": "ELAS FREE ATÉ 23H",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/super-sexta-campeiraco-ricardo-juninho-samuka-brasinha-dj-alef-elas-free-ate-23h__24995/",
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-0708-super-sexta__24996/"
+    },
+    {
+      "id_ingresso": "24997",
+      "id_reserva": "24998",
+      "date": "2026-08-08",
+      "day": "08",
+      "weekday": "SÁBADO",
+      "weekday_full": "Sábado",
+      "time": "22:00",
+      "name": "Baile dos Pais",
+      "bands": [
+        "Musical JM",
+        "Grupo Karisma",
+        "Ricardo & Juninho"
+      ],
+      "bands_text": "Musical JM • Grupo Karisma • Ricardo & Juninho",
+      "promo": "",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/baile-dos-pais-musical-jm-grupo-karisma-ricardo-juninho__24997/",
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-0808-baile-dos-pais__24998/"
+    },
+    {
+      "id_ingresso": "24999",
+      "id_reserva": "25000",
+      "date": "2026-08-14",
+      "day": "14",
+      "weekday": "SEXTA",
+      "weekday_full": "Sexta-feira",
+      "time": "22:00",
+      "name": "Sexta Baileira",
+      "bands": [
+        "Furacão",
+        "Ricardo & Juninho",
+        "Samuka & Brasinha",
+        "DJ Ale…"
+      ],
+      "bands_text": "Furacão • Ricardo & Juninho • Samuka & Brasinha • DJ Ale…",
+      "promo": "ELAS FREE ATÉ 23H",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/sexta-baileira-furacao-ricardo-juninho-samuka-brasinha-dj-alef-elas-free-ate-23h__24999/",
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1408-sexta-baileira__25000/"
+    },
+    {
+      "id_ingresso": "25001",
+      "id_reserva": "25002",
+      "date": "2026-08-21",
+      "day": "21",
+      "weekday": "SEXTA",
+      "weekday_full": "Sexta-feira",
+      "time": "22:00",
+      "name": "Bailão do Chê",
+      "bands": [
+        "Chê Lokêdo",
+        "Rick Mateus",
+        "Ricardo & Juninho"
+      ],
+      "bands_text": "Chê Lokêdo • Rick Mateus • Ricardo & Juninho",
+      "promo": "ELAS FREE ATÉ 23H",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/bailao-do-che-che-lokedo-rick-mateus-ricardo-juninho-elas-free-ate-23h__25001/",
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-2108-bailao-do-che__25002/"
+    },
+    {
+      "id_ingresso": "25003",
+      "id_reserva": "25004",
+      "date": "2026-08-22",
+      "day": "22",
+      "weekday": "SÁBADO",
+      "weekday_full": "Sábado",
+      "time": "22:00",
+      "name": "Flashback Scootter",
+      "bands": [
+        "Flashback Scootter"
+      ],
+      "bands_text": "Flashback Scootter",
+      "promo": "",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/flashback-scootter__25003/",
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-2208-flashback-scootter__25004/"
+    },
+    {
+      "id_ingresso": "25005",
+      "id_reserva": "25006",
+      "date": "2026-08-28",
+      "day": "28",
+      "weekday": "SEXTA",
+      "weekday_full": "Sexta-feira",
+      "time": "22:00",
+      "name": "Mega Baile da Sorte",
+      "bands": [
+        "Sorriso Lindo",
+        "Kamila Ferraz",
+        "DJ Alef"
+      ],
+      "bands_text": "Sorriso Lindo • Kamila Ferraz • DJ Alef",
+      "promo": "",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/mega-baile-da-sorte-sorriso-lindo-kamila-ferraz-dj-alef__25005/",
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-2808-mega-baile-da-sorte__25006/"
     }
   ]
 }
