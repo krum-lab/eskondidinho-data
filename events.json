@@ -1,25 +1,7 @@
 {
-  "month": "Julho",
-  "updated_at": "2026-08-01T06:00:01",
+  "month": "Agosto",
+  "updated_at": "2026-08-01T12:00:01",
   "events": [
-    {
-      "id_ingresso": "24504",
-      "id_reserva": "24505",
-      "date": "2026-07-31",
-      "day": "31",
-      "weekday": "SEXTA",
-      "weekday_full": "Sexta-feira",
-      "time": "22:00",
-      "name": "Rota Musical",
-      "bands": [
-        "Ricardo & Juninho",
-        "DJ Alef"
-      ],
-      "bands_text": "Ricardo & Juninho • DJ Alef",
-      "promo": "ELAS FREE ATÉ 23H",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/rota-musical-ricardo-juninho-dj-alef-free-unissex__24504/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-3107-rota-musical__24505/"
-    },
     {
       "id_ingresso": "24995",
       "id_reserva": "24996",
