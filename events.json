@@ -1,6 +1,6 @@
 {
   "month": "Agosto",
-  "updated_at": "2026-08-07T00:00:02",
+  "updated_at": "2026-08-07T06:00:02",
   "events": [
     {
       "id_ingresso": "24995",
@@ -60,6 +60,24 @@
       "promo": "ELAS FREE ATÉ 23H",
       "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/sexta-baileira-furacao-ricardo-juninho-samuka-brasinha-dj-alef-elas-free-ate-23h__24999/",
       "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1408-sexta-baileira__25000/"
+    },
+    {
+      "id_ingresso": "25228",
+      "id_reserva": "25229",
+      "date": "2026-08-17",
+      "day": "17",
+      "weekday": "SEGUNDA",
+      "weekday_full": "Segunda-feira",
+      "time": "22:00",
+      "name": "Pirão, Linguiça e Modão",
+      "bands": [
+        "Joaquim & Manuel",
+        "Grandes artistas Nacionais …"
+      ],
+      "bands_text": "Joaquim & Manuel • Grandes artistas Nacionais …",
+      "promo": "",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/pirao-linguica-e-modao-joaquim-manuel-grandes-artistas-nacionais-e-regionais__25228/",
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1708-pirao-linguica-e-modao-joaquim-manuel__25229/"
     },
     {
       "id_ingresso": "25001",
