@@ -1,27 +1,7 @@
 {
   "month": "Agosto",
-  "updated_at": "2026-08-08T06:00:02",
+  "updated_at": "2026-08-08T12:00:03",
   "events": [
-    {
-      "id_ingresso": "24995",
-      "id_reserva": "24996",
-      "date": "2026-08-07",
-      "day": "07",
-      "weekday": "SEXTA",
-      "weekday_full": "Sexta-feira",
-      "time": "22:00",
-      "name": "Super Sexta",
-      "bands": [
-        "Campeiraço",
-        "Ricardo & Juninho",
-        "Samuka & Brasinha",
-        "DJ Ale…"
-      ],
-      "bands_text": "Campeiraço • Ricardo & Juninho • Samuka & Brasinha • DJ Ale…",
-      "promo": "ELAS FREE ATÉ 23H",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/super-sexta-campeiraco-ricardo-juninho-samuka-brasinha-dj-alef-free-unissex-ate-23h__24995/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-0708-super-sexta__24996/"
-    },
     {
       "id_ingresso": "24997",
       "id_reserva": "24998",
