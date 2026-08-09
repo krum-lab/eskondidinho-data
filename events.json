@@ -1,26 +1,7 @@
 {
   "month": "Agosto",
-  "updated_at": "2026-08-09T06:00:03",
+  "updated_at": "2026-08-09T12:00:03",
   "events": [
-    {
-      "id_ingresso": "24997",
-      "id_reserva": "24998",
-      "date": "2026-08-08",
-      "day": "08",
-      "weekday": "SÁBADO",
-      "weekday_full": "Sábado",
-      "time": "22:00",
-      "name": "Baile dos Pais",
-      "bands": [
-        "Musical JM",
-        "Grupo Karisma",
-        "Ricardo & Juninho"
-      ],
-      "bands_text": "Musical JM • Grupo Karisma • Ricardo & Juninho",
-      "promo": "",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/baile-dos-pais-musical-jm-grupo-karisma-ricardo-juninho__24997/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-0808-baile-dos-pais__24998/"
-    },
     {
       "id_ingresso": "24999",
       "id_reserva": "25000",
