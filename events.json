@@ -1,6 +1,6 @@
 {
   "month": "Agosto",
-  "updated_at": "2026-08-11T12:00:03",
+  "updated_at": "2026-08-11T13:59:54",
   "events": [
     {
       "id_ingresso": "24999",
@@ -13,14 +13,30 @@
       "name": "Sexta Baileira",
       "bands": [
         "Furacão",
-        "Ricardo & Juninho",
-        "Samuka & Brasinha",
-        "DJ Ale…"
+        "Grupo Modão"
       ],
-      "bands_text": "Furacão • Ricardo & Juninho • Samuka & Brasinha • DJ Ale…",
+      "bands_text": "Furacão • Grupo Modão",
       "promo": "ELAS FREE ATÉ 23H",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/sexta-baileira-furacao-ricardo-juninho-samuka-brasinha-dj-alef-elas-free-ate-23h__24999/",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/sexta-baileira-furacao-grupo-modao-elas-free-ate-23h__24999/",
       "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1408-sexta-baileira__25000/"
+    },
+    {
+      "id_ingresso": "25293",
+      "id_reserva": "25294",
+      "date": "2026-08-15",
+      "day": "15",
+      "weekday": "SÁBADO",
+      "weekday_full": "Sábado",
+      "time": "22:00",
+      "name": "Sabadão Top",
+      "bands": [
+        "Garotinhas de Ouro",
+        "Ricardo Reis & Juninho"
+      ],
+      "bands_text": "Garotinhas de Ouro • Ricardo Reis & Juninho",
+      "promo": "",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/sabadao-top-garotinhas-de-ouro-ricardo-reis-juninho__25293/",
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1508-sabadao-top__25294/"
     },
     {
       "id_ingresso": "25228",
