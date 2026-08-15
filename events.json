@@ -1,25 +1,7 @@
 {
   "month": "Agosto",
-  "updated_at": "2026-08-15T06:00:03",
+  "updated_at": "2026-08-15T12:00:02",
   "events": [
-    {
-      "id_ingresso": "24999",
-      "id_reserva": "25000",
-      "date": "2026-08-14",
-      "day": "14",
-      "weekday": "SEXTA",
-      "weekday_full": "Sexta-feira",
-      "time": "22:00",
-      "name": "Sexta Baileira",
-      "bands": [
-        "Furacão",
-        "Grupo Modão"
-      ],
-      "bands_text": "Furacão • Grupo Modão",
-      "promo": "ELAS FREE ATÉ 23H",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/sexta-baileira-furacao-grupo-modao-elas-free-ate-23h__24999/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1408-sexta-baileira__25000/"
-    },
     {
       "id_ingresso": "25293",
       "id_reserva": "25294",
