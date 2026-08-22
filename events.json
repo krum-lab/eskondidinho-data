@@ -1,26 +1,7 @@
 {
   "month": "Agosto",
-  "updated_at": "2026-08-22T06:00:02",
+  "updated_at": "2026-08-22T12:00:02",
   "events": [
-    {
-      "id_ingresso": "25001",
-      "id_reserva": "25002",
-      "date": "2026-08-21",
-      "day": "21",
-      "weekday": "SEXTA",
-      "weekday_full": "Sexta-feira",
-      "time": "22:00",
-      "name": "Bailão do Chê",
-      "bands": [
-        "Chê Lokêdo",
-        "Rick Mateus",
-        "Ricardo & Juninho"
-      ],
-      "bands_text": "Chê Lokêdo • Rick Mateus • Ricardo & Juninho",
-      "promo": "ELAS FREE ATÉ 23H",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/bailao-do-che-che-lokedo-rick-mateus-ricardo-juninho-elas-free-ate-23h__25001/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-2108-bailao-do-che__25002/"
-    },
     {
       "id_ingresso": "25003",
       "id_reserva": "25004",
