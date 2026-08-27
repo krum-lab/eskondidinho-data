@@ -1,31 +1,38 @@
 {
-  "updated_at": "2026-07-08T04:02:14.227366",
+  "updated_at": "2026-08-27T22:15:38.082871",
   "events": {
-    "24483": {
-      "date": "2026-07-10",
-      "name": "Encontro de Gigantes",
+    "25006": {
+      "date": "2026-08-28",
+      "name": "Mega Baile da Sorte",
       "occupied": [
-        13
+        1,
+        4,
+        5,
+        7,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
       ]
     },
-    "24485": {
-      "date": "2026-07-11",
-      "name": "Flashback do Eskondidinho",
+    "25579": {
+      "date": "2026-09-12",
+      "name": "Flashback Scooter do Eskondidinho",
       "occupied": []
-    },
-    "24487": {
-      "date": "2026-07-17",
-      "name": "Arraiou",
-      "occupied": [
-        13
-      ]
-    },
-    "24505": {
-      "date": "2026-07-31",
-      "name": "Forrónejo",
-      "occupied": [
-        13
-      ]
     }
   }
 }
