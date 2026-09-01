@@ -1,12 +1,10 @@
 {
-  "updated_at": "2026-09-01T20:06:20.645816",
+  "updated_at": "2026-09-01T20:13:28.792685",
   "events": {
     "25698": {
       "date": "2026-09-04",
       "name": "Tri Baile de Gigantes",
-      "occupied": [
-        27
-      ]
+      "occupied": []
     },
     "25700": {
       "date": "2026-09-05",
