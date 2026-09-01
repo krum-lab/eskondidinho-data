@@ -1,9 +1,36 @@
 {
-  "updated_at": "2026-09-01T16:57:09.663992",
+  "updated_at": "2026-09-01T17:03:13.383259",
   "events": {
+    "25698": {
+      "date": "2026-09-04",
+      "name": "Tri Baile de Gigantes",
+      "occupied": [
+        27
+      ]
+    },
+    "25700": {
+      "date": "2026-09-05",
+      "name": "Sabadão Top",
+      "occupied": []
+    },
+    "25702": {
+      "date": "2026-09-11",
+      "name": "Super Sexta",
+      "occupied": []
+    },
     "25579": {
       "date": "2026-09-12",
       "name": "Flashback Scooter do Eskondidinho",
+      "occupied": []
+    },
+    "25704": {
+      "date": "2026-09-18",
+      "name": "Campeiraço",
+      "occupied": []
+    },
+    "25706": {
+      "date": "2026-09-25",
+      "name": "Baile da Sorte",
       "occupied": []
     }
   }
