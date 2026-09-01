@@ -1,61 +1,63 @@
 {
-  "month": "Agosto",
-  "updated_at": "2026-09-01T12:00:03",
+  "month": "Setembro",
+  "updated_at": "2026-09-01T15:25:02",
   "events": [
     {
-      "id_ingresso": "25001",
-      "id_reserva": "25002",
-      "date": "2026-08-21",
-      "day": "21",
+      "id_ingresso": "25697",
+      "id_reserva": "25698",
+      "date": "2026-09-04",
+      "day": "04",
       "weekday": "SEXTA",
       "weekday_full": "Sexta-feira",
       "time": "22:00",
-      "name": "Bailão do Chê",
+      "name": "Tri Baile de Gigantes",
       "bands": [
-        "Chê Lokêdo",
-        "Rick Mateus",
-        "Ricardo & Juninho"
+        "Candieiro",
+        "San Francisco",
+        "Primeira Dama"
       ],
-      "bands_text": "Chê Lokêdo • Rick Mateus • Ricardo & Juninho",
-      "promo": "ELAS FREE ATÉ 23H",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/bailao-do-che-che-lokedo-rick-mateus-ricardo-juninho-elas-free-ate-23h__25001/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-2108-bailao-do-che__25002/"
+      "bands_text": "Candieiro • San Francisco • Primeira Dama",
+      "promo": "ELAS",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/tri-baile-de-gigantes-candieiro-san-francisco-primeira-dama-elas-free-ate-23h__25697/",
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-0409-tri-baile-de-gigantes__25698/"
     },
     {
-      "id_ingresso": "25003",
-      "id_reserva": "25004",
-      "date": "2026-08-22",
-      "day": "22",
+      "id_ingresso": "25699",
+      "id_reserva": "25700",
+      "date": "2026-09-05",
+      "day": "05",
       "weekday": "SÁBADO",
       "weekday_full": "Sábado",
       "time": "22:00",
-      "name": "Flashback Scooter",
+      "name": "Sabadão Top",
       "bands": [
-        "Flashback Scooter"
+        "Karine & Diego e Banda",
+        "Ricardo & Juninho",
+        "Samuka & Brasi…"
       ],
-      "bands_text": "Flashback Scooter",
+      "bands_text": "Karine & Diego e Banda • Ricardo & Juninho • Samuka & Brasi…",
       "promo": "",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/flashback-scooter__25003/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-2208-flashback-scooter__25004/"
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/sabadao-top-karine-diego-e-banda-ricardo-juninho-samuka-brasinha__25699/",
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-0509-sabadao-top__25700/"
     },
     {
-      "id_ingresso": "25005",
-      "id_reserva": "25006",
-      "date": "2026-08-28",
-      "day": "28",
+      "id_ingresso": "25701",
+      "id_reserva": "25702",
+      "date": "2026-09-11",
+      "day": "11",
       "weekday": "SEXTA",
       "weekday_full": "Sexta-feira",
       "time": "22:00",
-      "name": "Mega Baile da Sorte",
+      "name": "Super Sexta",
       "bands": [
-        "Sorriso Lindo",
-        "Kamila Ferraz",
-        "Ricardo Reis & Juni…"
+        "Jjsv",
+        "Ricardo e Juninho",
+        "Samuka & Brasinha"
       ],
-      "bands_text": "Sorriso Lindo • Kamila Ferraz • Ricardo Reis & Juni…",
-      "promo": "",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/mega-baile-da-sorte-sorriso-lindo-kamila-ferraz-ricardo-reis-juninho__25005/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-2808-mega-baile-da-sorte__25006/"
+      "bands_text": "Jjsv • Ricardo e Juninho • Samuka & Brasinha",
+      "promo": "ELAS FREE AT",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/super-sexta-jjsv-ricardo-e-juninho-samuka-brasinha-elas-free-ate-23h__25701/",
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1109-super-sexta__25702/"
     },
     {
       "id_ingresso": "25578",
@@ -73,6 +75,44 @@
       "promo": "",
       "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/flashback-scooter-do-eskondidinho__25578/",
       "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1209-flashback-scooter__25579/"
+    },
+    {
+      "id_ingresso": "25703",
+      "id_reserva": "25704",
+      "date": "2026-09-18",
+      "day": "18",
+      "weekday": "SEXTA",
+      "weekday_full": "Sexta-feira",
+      "time": "22:00",
+      "name": "Campeiraço",
+      "bands": [
+        "Campeiraço",
+        "Ricardo & Juninho",
+        "Samuka & Brasinha"
+      ],
+      "bands_text": "Campeiraço • Ricardo & Juninho • Samuka & Brasinha",
+      "promo": "ELAS FR",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/campeiraco-campeiraco-ricardo-juninho-samuka-brasinha-elas-free-ate-23h__25703/",
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1809-campeiraco__25704/"
+    },
+    {
+      "id_ingresso": "25705",
+      "id_reserva": "25706",
+      "date": "2026-09-25",
+      "day": "25",
+      "weekday": "SEXTA",
+      "weekday_full": "Sexta-feira",
+      "time": "22:00",
+      "name": "Baile da Sorte",
+      "bands": [
+        "Legião Gaúcha",
+        "To Denovo",
+        "Ricardo e Juninho"
+      ],
+      "bands_text": "Legião Gaúcha • To Denovo • Ricardo e Juninho",
+      "promo": "",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/baile-da-sorte-legiao-gaucha-to-denovo-ricardo-e-juninho__25705/",
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-2509-baile-da-sorte__25706/"
     }
   ]
 }
