@@ -1,10 +1,11 @@
 {
-  "updated_at": "2026-09-02T00:30:13.605368",
+  "updated_at": "2026-09-02T00:36:19.095792",
   "events": {
     "25698": {
       "date": "2026-09-04",
       "name": "Tri Baile de Gigantes",
       "occupied": [
+        13,
         27,
         33
       ]
@@ -12,7 +13,9 @@
     "25700": {
       "date": "2026-09-05",
       "name": "Sabadão Top",
-      "occupied": []
+      "occupied": [
+        13
+      ]
     },
     "25702": {
       "date": "2026-09-11",
