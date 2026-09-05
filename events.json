@@ -1,26 +1,7 @@
 {
   "month": "Setembro",
-  "updated_at": "2026-09-05T06:00:02",
+  "updated_at": "2026-09-05T07:00:02",
   "events": [
-    {
-      "id_ingresso": "25697",
-      "id_reserva": "25698",
-      "date": "2026-09-04",
-      "day": "04",
-      "weekday": "SEXTA",
-      "weekday_full": "Sexta-feira",
-      "time": "22:00",
-      "name": "Tri Baile de Gigantes",
-      "bands": [
-        "Candieiro",
-        "San Francisco",
-        "Primeira Dama"
-      ],
-      "bands_text": "Candieiro • San Francisco • Primeira Dama",
-      "promo": "ELAS FREE ATÉ 23H",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/tri-baile-de-gigantes-candieiro-san-francisco-primeira-dama-elas-free-ate-23h__25697/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-0409-tri-baile-de-gigantes__25698/"
-    },
     {
       "id_ingresso": "25699",
       "id_reserva": "25700",
