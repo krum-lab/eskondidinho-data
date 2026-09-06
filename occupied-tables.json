@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T06:01:05.460026",
+  "updated_at": "2026-09-06T06:06:47.031919",
   "events": {
     "25702": {
       "date": "2026-09-11",
@@ -11,7 +11,10 @@
     "25579": {
       "date": "2026-09-12",
       "name": "Flashback Scooter do Eskondidinho",
-      "occupied": []
+      "occupied": [
+        21,
+        22
+      ]
     },
     "25704": {
       "date": "2026-09-18",
