@@ -1,26 +1,7 @@
 {
   "month": "Setembro",
-  "updated_at": "2026-09-06T06:00:02",
+  "updated_at": "2026-09-06T07:00:02",
   "events": [
-    {
-      "id_ingresso": "25699",
-      "id_reserva": "25700",
-      "date": "2026-09-05",
-      "day": "05",
-      "weekday": "SÁBADO",
-      "weekday_full": "Sábado",
-      "time": "22:00",
-      "name": "Sabadão Top",
-      "bands": [
-        "Karine & Diego e Banda",
-        "Ricardo & Juninho",
-        "Samuka & Brasi…"
-      ],
-      "bands_text": "Karine & Diego e Banda • Ricardo & Juninho • Samuka & Brasi…",
-      "promo": "",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/sabadao-top-karine-diego-e-banda-ricardo-juninho-samuka-brasinha__25699/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-0509-sabadao-top__25700/"
-    },
     {
       "id_ingresso": "25701",
       "id_reserva": "25702",
