@@ -1,6 +1,6 @@
 {
   "month": "Setembro",
-  "updated_at": "2026-09-11T01:00:02",
+  "updated_at": "2026-09-11T02:00:03",
   "events": [
     {
       "id_ingresso": "25701",
@@ -56,6 +56,25 @@
       "promo": "ELAS FREE ATÉ 23H",
       "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/campeiraco-campeiraco-ricardo-juninho-samuka-brasinha-elas-free-ate-23h__25703/",
       "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1809-campeiraco__25704/"
+    },
+    {
+      "id_ingresso": "25883",
+      "id_reserva": "25884",
+      "date": "2026-09-19",
+      "day": "19",
+      "weekday": "SÁBADO",
+      "weekday_full": "Sábado",
+      "time": "22:00",
+      "name": "Sabadão Gaúcho",
+      "bands": [
+        "Grupo Farrancho",
+        "Ricardo Reis & Juninho",
+        "Samuka & Bras…"
+      ],
+      "bands_text": "Grupo Farrancho • Ricardo Reis & Juninho • Samuka & Bras…",
+      "promo": "",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/sabadao-gaucho-grupo-farrancho-ricardo-reis-juninho-samuka-brasinha__25883/",
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1909-sabadao-gaucho-grupo-farrancho-ricardo-reis-juninho-samuka-brasinha__25884/"
     },
     {
       "id_ingresso": "25705",
