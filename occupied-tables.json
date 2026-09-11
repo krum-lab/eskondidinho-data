@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T18:04:36.957820",
+  "updated_at": "2026-09-11T18:10:29.889747",
   "events": {
     "25702": {
       "date": "2026-09-11",
@@ -34,12 +34,16 @@
     "25884": {
       "date": "2026-09-19",
       "name": "Sabadão Gaúcho",
-      "occupied": []
+      "occupied": [
+        13
+      ]
     },
     "25706": {
       "date": "2026-09-25",
       "name": "Baile da Sorte",
-      "occupied": []
+      "occupied": [
+        13
+      ]
     }
   }
 }
