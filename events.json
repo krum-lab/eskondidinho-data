@@ -1,26 +1,7 @@
 {
   "month": "Setembro",
-  "updated_at": "2026-09-12T06:00:02",
+  "updated_at": "2026-09-12T07:00:02",
   "events": [
-    {
-      "id_ingresso": "25701",
-      "id_reserva": "25702",
-      "date": "2026-09-11",
-      "day": "11",
-      "weekday": "SEXTA",
-      "weekday_full": "Sexta-feira",
-      "time": "22:00",
-      "name": "Super Sexta",
-      "bands": [
-        "Jjsv",
-        "Ricardo e Juninho",
-        "Samuka & Brasinha"
-      ],
-      "bands_text": "Jjsv • Ricardo e Juninho • Samuka & Brasinha",
-      "promo": "ELAS FREE ATÉ 23H",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/super-sexta-jjsv-ricardo-e-juninho-samuka-brasinha-elas-free-ate-23h__25701/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1109-super-sexta__25702/"
-    },
     {
       "id_ingresso": "25578",
       "id_reserva": "25579",
