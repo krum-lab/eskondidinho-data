@@ -1,12 +1,10 @@
 {
-  "updated_at": "2026-09-13T12:15:46.775318",
+  "updated_at": "2026-09-13T12:21:39.146265",
   "events": {
     "25704": {
       "date": "2026-09-18",
       "name": "Campeiraço",
-      "occupied": [
-        13
-      ]
+      "occupied": []
     },
     "25884": {
       "date": "2026-09-19",
@@ -18,7 +16,9 @@
     "25706": {
       "date": "2026-09-25",
       "name": "Baile da Sorte",
-      "occupied": []
+      "occupied": [
+        13
+      ]
     }
   }
 }
