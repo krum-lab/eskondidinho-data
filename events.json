@@ -1,24 +1,7 @@
 {
   "month": "Setembro",
-  "updated_at": "2026-09-13T06:00:02",
+  "updated_at": "2026-09-13T07:00:02",
   "events": [
-    {
-      "id_ingresso": "25578",
-      "id_reserva": "25579",
-      "date": "2026-09-12",
-      "day": "12",
-      "weekday": "SÁBADO",
-      "weekday_full": "Sábado",
-      "time": "22:00",
-      "name": "Flashback Scooter do Eskondidinho",
-      "bands": [
-        "Flashback Scooter do Eskondidinho"
-      ],
-      "bands_text": "Flashback Scooter do Eskondidinho",
-      "promo": "",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/flashback-scooter-do-eskondidinho__25578/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1209-flashback-scooter__25579/"
-    },
     {
       "id_ingresso": "25703",
       "id_reserva": "25704",
