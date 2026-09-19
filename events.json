@@ -1,25 +1,61 @@
 {
   "month": "Setembro",
-  "updated_at": "2026-09-19T16:00:03",
+  "updated_at": "2026-09-19T17:00:02",
   "events": [
     {
-      "id_ingresso": "25883",
-      "id_reserva": "25884",
-      "date": "2026-09-19",
-      "day": "19",
+      "id_ingresso": "25701",
+      "id_reserva": "25702",
+      "date": "2026-09-11",
+      "day": "11",
+      "weekday": "SEXTA",
+      "weekday_full": "Sexta-feira",
+      "time": "22:00",
+      "name": "Super Sexta",
+      "bands": [
+        "Jjsv",
+        "Ricardo e Juninho",
+        "Samuka & Brasinha"
+      ],
+      "bands_text": "Jjsv • Ricardo e Juninho • Samuka & Brasinha",
+      "promo": "ELAS FREE ATÉ 23H",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/super-sexta-jjsv-ricardo-e-juninho-samuka-brasinha-elas-free-ate-23h__25701/",
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1109-super-sexta__25702/"
+    },
+    {
+      "id_ingresso": "25578",
+      "id_reserva": "25579",
+      "date": "2026-09-12",
+      "day": "12",
       "weekday": "SÁBADO",
       "weekday_full": "Sábado",
       "time": "22:00",
-      "name": "Sabadão Gaúcho",
+      "name": "Flashback Scooter do Eskondidinho",
       "bands": [
-        "Grupo Farrancho",
-        "Ricardo Reis & Juninho",
-        "Samuka & Bras…"
+        "Flashback Scooter do Eskondidinho"
       ],
-      "bands_text": "Grupo Farrancho • Ricardo Reis & Juninho • Samuka & Bras…",
+      "bands_text": "Flashback Scooter do Eskondidinho",
       "promo": "",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/sabadao-gaucho-grupo-farrancho-ricardo-reis-juninho-samuka-brasinha__25883/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1909-sabadao-gaucho-grupo-farrancho-ricardo-reis-juninho-samuka-brasinha__25884/"
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/flashback-scooter-do-eskondidinho__25578/",
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1209-flashback-scooter__25579/"
+    },
+    {
+      "id_ingresso": "25703",
+      "id_reserva": "25704",
+      "date": "2026-09-18",
+      "day": "18",
+      "weekday": "SEXTA",
+      "weekday_full": "Sexta-feira",
+      "time": "22:00",
+      "name": "Campeiraço",
+      "bands": [
+        "Campeiraço",
+        "Ricardo & Juninho",
+        "Samuka & Brasinha"
+      ],
+      "bands_text": "Campeiraço • Ricardo & Juninho • Samuka & Brasinha",
+      "promo": "ELAS FREE ATÉ 23H",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/campeiraco-campeiraco-ricardo-juninho-samuka-brasinha-elas-free-ate-23h__25703/",
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1809-campeiraco__25704/"
     },
     {
       "id_ingresso": "25705",
