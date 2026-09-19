@@ -1,26 +1,7 @@
 {
   "month": "Setembro",
-  "updated_at": "2026-09-19T06:00:03",
+  "updated_at": "2026-09-19T07:00:02",
   "events": [
-    {
-      "id_ingresso": "25703",
-      "id_reserva": "25704",
-      "date": "2026-09-18",
-      "day": "18",
-      "weekday": "SEXTA",
-      "weekday_full": "Sexta-feira",
-      "time": "22:00",
-      "name": "Campeiraço",
-      "bands": [
-        "Campeiraço",
-        "Ricardo & Juninho",
-        "Samuka & Brasinha"
-      ],
-      "bands_text": "Campeiraço • Ricardo & Juninho • Samuka & Brasinha",
-      "promo": "ELAS FREE ATÉ 23H",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/campeiraco-campeiraco-ricardo-juninho-samuka-brasinha-elas-free-ate-23h__25703/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1809-campeiraco__25704/"
-    },
     {
       "id_ingresso": "25883",
       "id_reserva": "25884",
