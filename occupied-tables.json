@@ -1,10 +1,12 @@
 {
-  "updated_at": "2026-09-23T23:28:45.959343",
+  "updated_at": "2026-09-23T23:33:56.130346",
   "events": {
     "25706": {
       "date": "2026-09-25",
       "name": "Baile da Sorte",
-      "occupied": []
+      "occupied": [
+        13
+      ]
     }
   }
 }
