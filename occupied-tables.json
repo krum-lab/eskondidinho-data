@@ -1,13 +1,45 @@
 {
-  "updated_at": "2026-09-27T17:30:44.546388",
+  "updated_at": "2026-09-27T17:37:10.264703",
   "events": {
-    "25706": {
-      "date": "2026-09-25",
+    "26294": {
+      "date": "2026-10-02",
+      "name": "Sexta Top",
+      "occupied": []
+    },
+    "26296": {
+      "date": "2026-10-03",
+      "name": "Gigante da Vaneira",
+      "occupied": []
+    },
+    "26298": {
+      "date": "2026-10-09",
+      "name": "Super Sexta",
+      "occupied": []
+    },
+    "26300": {
+      "date": "2026-10-11",
+      "name": "Tri Baile da Vaneira",
+      "occupied": []
+    },
+    "26302": {
+      "date": "2026-10-16",
+      "name": "Sextaça",
+      "occupied": []
+    },
+    "26304": {
+      "date": "2026-10-23",
+      "name": "Forronerou",
+      "occupied": []
+    },
+    "26306": {
+      "date": "2026-10-24",
+      "name": "Flashback Hidden",
+      "occupied": []
+    },
+    "26308": {
+      "date": "2026-10-30",
       "name": "Baile da Sorte",
-      "occupied": [
-        13,
-        27
-      ]
+      "occupied": []
     }
   }
 }
