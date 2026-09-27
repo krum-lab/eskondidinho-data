@@ -1,6 +1,6 @@
 {
   "month": "Outubro",
-  "updated_at": "2026-09-27T16:00:03",
+  "updated_at": "2026-09-27T16:55:23",
   "events": [
     {
       "id_ingresso": "26293",
@@ -42,7 +42,7 @@
     },
     {
       "id_ingresso": "26297",
-      "id_reserva": "",
+      "id_reserva": "26298",
       "date": "2026-10-09",
       "day": "09",
       "weekday": "SEXTA",
@@ -57,7 +57,100 @@
       "bands_text": "Candieiro • Ricardo & Juninho • Samuka & Brasinha",
       "promo": "ELAS FREE ATÉ 23H",
       "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/super-sexta-candieiro-ricardo-juninho-samuka-brasinha-elas-free-ate-23h__26297/",
-      "link_reserva": ""
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-0910-super-sexta__26298/"
+    },
+    {
+      "id_ingresso": "26299",
+      "id_reserva": "26300",
+      "date": "2026-10-11",
+      "day": "11",
+      "weekday": "DOMINGO",
+      "weekday_full": "Domingo",
+      "time": "22:00",
+      "name": "Tri Baile da Vaneira",
+      "bands": [
+        "Novos Garotos",
+        "Mário Junior",
+        "Bandavanera"
+      ],
+      "bands_text": "Novos Garotos • Mário Junior • Bandavanera",
+      "promo": "",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/tri-baile-da-vaneira-novos-garotos-mario-junior-bandavanera__26299/",
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1110-tri-baile-da-vaneira__26300/"
+    },
+    {
+      "id_ingresso": "26301",
+      "id_reserva": "26302",
+      "date": "2026-10-16",
+      "day": "16",
+      "weekday": "SEXTA",
+      "weekday_full": "Sexta-feira",
+      "time": "22:00",
+      "name": "Sextaça",
+      "bands": [
+        "Primeira Dama",
+        "Ricardo & Juninho",
+        "DJ Alef"
+      ],
+      "bands_text": "Primeira Dama • Ricardo & Juninho • DJ Alef",
+      "promo": "ELAS FREE ATÉ 23H",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/sextaca-primeira-dama-ricardo-juninho-dj-alef-elas-free-ate-23h__26301/",
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1610-sextaca__26302/"
+    },
+    {
+      "id_ingresso": "26303",
+      "id_reserva": "26304",
+      "date": "2026-10-23",
+      "day": "23",
+      "weekday": "SEXTA",
+      "weekday_full": "Sexta-feira",
+      "time": "22:00",
+      "name": "Forronerou",
+      "bands": [
+        "Ricardo & Juninho",
+        "Samuka & Brasinha",
+        "DJ Alef"
+      ],
+      "bands_text": "Ricardo & Juninho • Samuka & Brasinha • DJ Alef",
+      "promo": "FREE UNISSEX ATÉ 23H",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/forronerou-ricardo-juninho-samuka-brasinha-dj-alef-free-unissex-ate-23h__26303/",
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-2310-forronerou__26304/"
+    },
+    {
+      "id_ingresso": "26305",
+      "id_reserva": "26306",
+      "date": "2026-10-24",
+      "day": "24",
+      "weekday": "SÁBADO",
+      "weekday_full": "Sábado",
+      "time": "22:00",
+      "name": "Flashback Hidden",
+      "bands": [
+        "Flashback Hidden"
+      ],
+      "bands_text": "Flashback Hidden",
+      "promo": "",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/flashback-hidden__26305/",
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-2410-flashback-hidden__26306/"
+    },
+    {
+      "id_ingresso": "26307",
+      "id_reserva": "26308",
+      "date": "2026-10-30",
+      "day": "30",
+      "weekday": "SEXTA",
+      "weekday_full": "Sexta-feira",
+      "time": "22:00",
+      "name": "Baile da Sorte",
+      "bands": [
+        "Ricardo & Juninho",
+        "Samuka & Brasinha",
+        "DJ Alef"
+      ],
+      "bands_text": "Ricardo & Juninho • Samuka & Brasinha • DJ Alef",
+      "promo": "",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/baile-da-sorte-ricardo-juninho-samuka-brasinha-dj-alef__26307/",
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-3010-baile-da-sorte__26308/"
     }
   ]
 }
