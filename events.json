@@ -1,6 +1,6 @@
 {
   "month": "Outubro",
-  "updated_at": "2026-09-27T19:00:03",
+  "updated_at": "2026-09-27T19:15:38",
   "events": [
     {
       "id_ingresso": "26293",
@@ -50,13 +50,12 @@
       "time": "22:00",
       "name": "Super Sexta",
       "bands": [
-        "Candieiro",
-        "Ricardo & Juninho",
-        "Samuka & Brasinha"
+        "Portal Gaúcho",
+        "Garotinhas de Ouro"
       ],
-      "bands_text": "Candieiro • Ricardo & Juninho • Samuka & Brasinha",
+      "bands_text": "Portal Gaúcho • Garotinhas de Ouro",
       "promo": "ELAS FREE ATÉ 23H",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/super-sexta-candieiro-ricardo-juninho-samuka-brasinha-elas-free-ate-23h__26297/",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/super-sexta-portal-gaucho-garotinhas-de-ouro-elas-free-ate-23h__26297/",
       "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-0910-super-sexta__26298/"
     },
     {
