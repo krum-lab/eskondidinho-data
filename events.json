@@ -1,6 +1,6 @@
 {
   "month": "Outubro",
-  "updated_at": "2026-09-28T19:00:02",
+  "updated_at": "2026-09-28T20:00:04",
   "events": [
     {
       "id_ingresso": "26293",
@@ -48,15 +48,15 @@
       "weekday": "SEXTA",
       "weekday_full": "Sexta-feira",
       "time": "22:00",
-      "name": "Super Sexta",
+      "name": "Sexta Tchê",
       "bands": [
         "Portal Gaúcho",
         "Garotinhas de Ouro"
       ],
       "bands_text": "Portal Gaúcho • Garotinhas de Ouro",
       "promo": "ELAS FREE ATÉ 23H",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/super-sexta-portal-gaucho-garotinhas-de-ouro-elas-free-ate-23h__26297/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-0910-super-sexta__26298/"
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/sexta-tche-portal-gaucho-garotinhas-de-ouro-elas-free-ate-23h__26297/",
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-0910-sexta-tche__26298/"
     },
     {
       "id_ingresso": "26299",
