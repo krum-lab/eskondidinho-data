@@ -1,6 +1,6 @@
 {
   "month": "Outubro",
-  "updated_at": "2026-09-30T15:00:04",
+  "updated_at": "2026-09-30T16:00:03",
   "events": [
     {
       "id_ingresso": "26293",
@@ -104,16 +104,16 @@
       "weekday": "SEXTA",
       "weekday_full": "Sexta-feira",
       "time": "22:00",
-      "name": "Forronerou",
+      "name": "Sexta Bailão",
       "bands": [
+        "Explode Coração",
         "Ricardo & Juninho",
-        "Samuka & Brasinha",
         "DJ Alef"
       ],
-      "bands_text": "Ricardo & Juninho • Samuka & Brasinha • DJ Alef",
+      "bands_text": "Explode Coração • Ricardo & Juninho • DJ Alef",
       "promo": "FREE UNISSEX ATÉ 23H",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/forronerou-ricardo-juninho-samuka-brasinha-dj-alef-free-unissex-ate-23h__26303/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-2310-forronerou__26304/"
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/sexta-bailao-explode-coracao-ricardo-juninho-dj-alef-free-unissex-ate-23h__26303/",
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-2310-sexta-bailao__26304/"
     },
     {
       "id_ingresso": "26305",
