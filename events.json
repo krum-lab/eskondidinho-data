@@ -1,26 +1,7 @@
 {
   "month": "Outubro",
-  "updated_at": "2026-10-03T06:00:05",
+  "updated_at": "2026-10-03T07:00:03",
   "events": [
-    {
-      "id_ingresso": "26293",
-      "id_reserva": "26294",
-      "date": "2026-10-02",
-      "day": "02",
-      "weekday": "SEXTA",
-      "weekday_full": "Sexta-feira",
-      "time": "22:00",
-      "name": "Sexta Top",
-      "bands": [
-        "Alma Latina",
-        "Ricardo & Juninho",
-        "Samuka & Brasinha"
-      ],
-      "bands_text": "Alma Latina • Ricardo & Juninho • Samuka & Brasinha",
-      "promo": "ELAS FREE ATÉ 23H",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/sexta-top-alma-latina-ricardo-juninho-samuka-brasinha-elas-free-ate-23h__26293/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-0210-sexta-top__26294/"
-    },
     {
       "id_ingresso": "26295",
       "id_reserva": "26296",
