@@ -1,26 +1,7 @@
 {
   "month": "Outubro",
-  "updated_at": "2026-10-04T06:00:03",
+  "updated_at": "2026-10-04T07:00:04",
   "events": [
-    {
-      "id_ingresso": "26295",
-      "id_reserva": "26296",
-      "date": "2026-10-03",
-      "day": "03",
-      "weekday": "SÁBADO",
-      "weekday_full": "Sábado",
-      "time": "22:00",
-      "name": "Gigante da Vaneira",
-      "bands": [
-        "Candieiro",
-        "Ricardo & Juninho",
-        "Samuka & Brasinha"
-      ],
-      "bands_text": "Candieiro • Ricardo & Juninho • Samuka & Brasinha",
-      "promo": "",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/gigante-da-vaneira-candieiro-ricardo-juninho-samuka-brasinha__26295/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-0310-gigante-da-vaneira__26296/"
-    },
     {
       "id_ingresso": "26297",
       "id_reserva": "26298",
