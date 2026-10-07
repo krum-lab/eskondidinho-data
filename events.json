@@ -1,6 +1,6 @@
 {
   "month": "Outubro",
-  "updated_at": "2026-10-07T19:00:04",
+  "updated_at": "2026-10-07T20:00:03",
   "events": [
     {
       "id_ingresso": "26297",
@@ -112,6 +112,26 @@
       "promo": "",
       "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/baile-da-sorte-ricardo-juninho-samuka-brasinha-dj-alef__26307/",
       "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-3010-baile-da-sorte__26308/"
+    },
+    {
+      "id_ingresso": "26531",
+      "id_reserva": "26536",
+      "date": "2026-11-06",
+      "day": "06",
+      "weekday": "SEXTA",
+      "weekday_full": "Sexta-feira",
+      "time": "22:00",
+      "name": "Mega bailão",
+      "bands": [
+        "\" Vai Tomar no Uno\"",
+        "Aloísio Silva",
+        "Ricardo & Juninho",
+        "Sam…"
+      ],
+      "bands_text": "\" Vai Tomar no Uno\" • Aloísio Silva • Ricardo & Juninho • Sam…",
+      "promo": "",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/mega-bailao-vai-tomar-no-uno-aloisio-silva-ricardo-juninho-samuka-brasinha__26531/",
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-0611-mega-bailao-vai-tomar-no-uno__26536/"
     }
   ]
 }
