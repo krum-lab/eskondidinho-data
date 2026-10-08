@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-10-08T05:14:28.354614",
+  "updated_at": "2026-10-08T05:20:43.566652",
   "events": {
     "26298": {
       "date": "2026-10-09",
       "name": "Sexta Tchê",
-      "occupied": []
+      "occupied": [
+        9,
+        13
+      ]
     },
     "26300": {
       "date": "2026-10-11",
       "name": "Tri Baile da Vaneira",
-      "occupied": []
+      "occupied": [
+        13,
+        27
+      ]
     },
     "26302": {
       "date": "2026-10-16",
