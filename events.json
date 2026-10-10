@@ -1,25 +1,7 @@
 {
   "month": "Outubro",
-  "updated_at": "2026-10-10T06:00:03",
+  "updated_at": "2026-10-10T07:00:02",
   "events": [
-    {
-      "id_ingresso": "26297",
-      "id_reserva": "26298",
-      "date": "2026-10-09",
-      "day": "09",
-      "weekday": "SEXTA",
-      "weekday_full": "Sexta-feira",
-      "time": "22:00",
-      "name": "Sexta Tchê",
-      "bands": [
-        "Portal Gaúcho",
-        "Garotinhas de Ouro"
-      ],
-      "bands_text": "Portal Gaúcho • Garotinhas de Ouro",
-      "promo": "ELAS FREE ATÉ 23H",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/sexta-tche-portal-gaucho-garotinhas-de-ouro-elas-free-ate-23h__26297/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-0910-sexta-tche__26298/"
-    },
     {
       "id_ingresso": "26299",
       "id_reserva": "26300",
