@@ -1,26 +1,7 @@
 {
   "month": "Outubro",
-  "updated_at": "2026-10-12T06:00:02",
+  "updated_at": "2026-10-12T07:00:02",
   "events": [
-    {
-      "id_ingresso": "26299",
-      "id_reserva": "26300",
-      "date": "2026-10-11",
-      "day": "11",
-      "weekday": "DOMINGO",
-      "weekday_full": "Domingo",
-      "time": "22:00",
-      "name": "Tri Baile da Vaneira",
-      "bands": [
-        "Novos Garotos",
-        "Mário Junior",
-        "Bandavanera"
-      ],
-      "bands_text": "Novos Garotos • Mário Junior • Bandavanera",
-      "promo": "",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/tri-baile-da-vaneira-novos-garotos-mario-junior-bandavanera__26299/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1110-tri-baile-da-vaneira__26300/"
-    },
     {
       "id_ingresso": "26301",
       "id_reserva": "26302",
