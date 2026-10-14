@@ -1,6 +1,6 @@
 {
   "month": "Outubro",
-  "updated_at": "2026-10-14T13:00:02",
+  "updated_at": "2026-10-14T14:00:02",
   "events": [
     {
       "id_ingresso": "26301",
@@ -86,13 +86,13 @@
       "time": "22:00",
       "name": "Vai Tomar no Uno",
       "bands": [
-        "Aloísio Silva",
-        "Ricardo & Juninho",
-        "Samuka & Brasinha"
+        "Aloisio Silva",
+        "Grupo Garotaço",
+        "Ricardo e Juninho"
       ],
-      "bands_text": "Aloísio Silva • Ricardo & Juninho • Samuka & Brasinha",
+      "bands_text": "Aloisio Silva • Grupo Garotaço • Ricardo e Juninho",
       "promo": "",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/vai-tomar-no-uno-aloisio-silva-ricardo-juninho-samuka-brasinha__26531/",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/vai-tomar-no-uno-aloisio-silva-grupo-garotaco-ricardo-e-juninho__26531/",
       "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-0611-vai-tomar-no-uno__26536/"
     }
   ]
