@@ -1,26 +1,7 @@
 {
   "month": "Outubro",
-  "updated_at": "2026-10-17T06:00:02",
+  "updated_at": "2026-10-17T07:00:03",
   "events": [
-    {
-      "id_ingresso": "26301",
-      "id_reserva": "26302",
-      "date": "2026-10-16",
-      "day": "16",
-      "weekday": "SEXTA",
-      "weekday_full": "Sexta-feira",
-      "time": "22:00",
-      "name": "Sextaça",
-      "bands": [
-        "Primeira Dama",
-        "Ricardo & Juninho",
-        "DJ Alef"
-      ],
-      "bands_text": "Primeira Dama • Ricardo & Juninho • DJ Alef",
-      "promo": "ELAS FREE ATÉ 23H",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/sextaca-primeira-dama-ricardo-juninho-dj-alef-elas-free-ate-23h__26301/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1610-sextaca__26302/"
-    },
     {
       "id_ingresso": "26303",
       "id_reserva": "26304",
