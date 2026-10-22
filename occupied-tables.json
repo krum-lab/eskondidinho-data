@@ -1,12 +1,10 @@
 {
-  "updated_at": "2026-10-22T03:30:35.801089",
+  "updated_at": "2026-10-22T03:37:01.070759",
   "events": {
     "26304": {
       "date": "2026-10-23",
       "name": "Sexta Bailão",
-      "occupied": [
-        13
-      ]
+      "occupied": []
     },
     "26306": {
       "date": "2026-10-24",
@@ -27,9 +25,7 @@
     "26536": {
       "date": "2026-11-06",
       "name": "Vai Tomar no Uno",
-      "occupied": [
-        13
-      ]
+      "occupied": []
     }
   }
 }
