@@ -1,24 +1,17 @@
 {
-  "updated_at": "2026-10-28T19:18:12.434999",
+  "updated_at": "2026-10-28T19:23:55.181997",
   "events": {
     "26308": {
       "date": "2026-10-30",
       "name": "Baile da Sorte",
-      "occupied": [
-        2,
-        13,
-        18,
-        27,
-        28,
-        29,
-        30,
-        31
-      ]
+      "occupied": []
     },
     "26536": {
       "date": "2026-11-06",
       "name": "Vai Tomar no Uno",
-      "occupied": []
+      "occupied": [
+        13
+      ]
     }
   }
 }
