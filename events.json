@@ -1,7 +1,43 @@
 {
   "month": "Outubro",
-  "updated_at": "2026-10-31T06:00:05",
+  "updated_at": "2026-10-31T07:00:03",
   "events": [
+    {
+      "id_ingresso": "26303",
+      "id_reserva": "26304",
+      "date": "2026-10-23",
+      "day": "23",
+      "weekday": "SEXTA",
+      "weekday_full": "Sexta-feira",
+      "time": "22:00",
+      "name": "Sexta Bailão",
+      "bands": [
+        "Explode Coração",
+        "Ricardo & Juninho",
+        "DJ Alef"
+      ],
+      "bands_text": "Explode Coração • Ricardo & Juninho • DJ Alef",
+      "promo": "FREE UNISSEX ATÉ 23H",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/sexta-bailao-explode-coracao-ricardo-juninho-dj-alef-free-unissex-ate-23h__26303/",
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-2310-sexta-bailao__26304/"
+    },
+    {
+      "id_ingresso": "26305",
+      "id_reserva": "26306",
+      "date": "2026-10-24",
+      "day": "24",
+      "weekday": "SÁBADO",
+      "weekday_full": "Sábado",
+      "time": "22:00",
+      "name": "Flashback Hidden",
+      "bands": [
+        "Flashback Hidden"
+      ],
+      "bands_text": "Flashback Hidden",
+      "promo": "",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/flashback-hidden__26305/",
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-2410-flashback-hidden__26306/"
+    },
     {
       "id_ingresso": "26307",
       "id_reserva": "26308",
