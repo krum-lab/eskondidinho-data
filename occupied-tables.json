@@ -1,10 +1,12 @@
 {
-  "updated_at": "2026-10-31T02:17:39.293036",
+  "updated_at": "2026-10-31T02:22:49.392219",
   "events": {
     "26536": {
       "date": "2026-11-06",
       "name": "Vai Tomar no Uno",
-      "occupied": []
+      "occupied": [
+        13
+      ]
     }
   }
 }
