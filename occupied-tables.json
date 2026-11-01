@@ -1,9 +1,41 @@
 {
-  "updated_at": "2026-11-01T14:01:08.438619",
+  "updated_at": "2026-11-01T14:07:43.040460",
   "events": {
     "26536": {
       "date": "2026-11-06",
       "name": "Vai Tomar no Uno",
+      "occupied": [
+        13
+      ]
+    },
+    "27125": {
+      "date": "2026-11-13",
+      "name": "Sextaça",
+      "occupied": []
+    },
+    "27126": {
+      "date": "2026-11-14",
+      "name": "Sabadão Top",
+      "occupied": []
+    },
+    "27127": {
+      "date": "2026-11-20",
+      "name": "Gigantes da Vanera",
+      "occupied": []
+    },
+    "27128": {
+      "date": "2026-11-21",
+      "name": "Flashback Hidden",
+      "occupied": []
+    },
+    "27129": {
+      "date": "2026-11-27",
+      "name": "Mega Baile da Sorte",
+      "occupied": []
+    },
+    "27130": {
+      "date": "2026-11-28",
+      "name": "Sabadão Top",
       "occupied": []
     }
   }
