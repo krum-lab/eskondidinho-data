@@ -1,62 +1,7 @@
 {
-  "month": "Outubro",
-  "updated_at": "2026-11-01T13:00:03",
+  "month": "Novembro",
+  "updated_at": "2026-11-01T14:00:03",
   "events": [
-    {
-      "id_ingresso": "26303",
-      "id_reserva": "26304",
-      "date": "2026-10-23",
-      "day": "23",
-      "weekday": "SEXTA",
-      "weekday_full": "Sexta-feira",
-      "time": "22:00",
-      "name": "Sexta Bailão",
-      "bands": [
-        "Explode Coração",
-        "Ricardo & Juninho",
-        "DJ Alef"
-      ],
-      "bands_text": "Explode Coração • Ricardo & Juninho • DJ Alef",
-      "promo": "FREE UNISSEX ATÉ 23H",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/sexta-bailao-explode-coracao-ricardo-juninho-dj-alef-free-unissex-ate-23h__26303/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-2310-sexta-bailao__26304/"
-    },
-    {
-      "id_ingresso": "26305",
-      "id_reserva": "26306",
-      "date": "2026-10-24",
-      "day": "24",
-      "weekday": "SÁBADO",
-      "weekday_full": "Sábado",
-      "time": "22:00",
-      "name": "Flashback Hidden",
-      "bands": [
-        "Flashback Hidden"
-      ],
-      "bands_text": "Flashback Hidden",
-      "promo": "",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/flashback-hidden__26305/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-2410-flashback-hidden__26306/"
-    },
-    {
-      "id_ingresso": "26307",
-      "id_reserva": "26308",
-      "date": "2026-10-30",
-      "day": "30",
-      "weekday": "SEXTA",
-      "weekday_full": "Sexta-feira",
-      "time": "22:00",
-      "name": "Baile da Sorte",
-      "bands": [
-        "Paulinho Mocelim",
-        "GDÓ",
-        "Gabriel Expresso"
-      ],
-      "bands_text": "Paulinho Mocelim • GDÓ • Gabriel Expresso",
-      "promo": "",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/baile-da-sorte-paulinho-mocelim-gdo-gabriel-expresso__26307/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-3010-baile-da-sorte__26308/"
-    },
     {
       "id_ingresso": "26531",
       "id_reserva": "26536",
@@ -75,6 +20,118 @@
       "promo": "",
       "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/vai-tomar-no-uno-aloisio-silva-grupo-garotaco-ricardo-e-juninho__26531/",
       "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-0611-vai-tomar-no-uno__26536/"
+    },
+    {
+      "id_ingresso": "27119",
+      "id_reserva": "27125",
+      "date": "2026-11-13",
+      "day": "13",
+      "weekday": "SEXTA",
+      "weekday_full": "Sexta-feira",
+      "time": "22:00",
+      "name": "Sextaça",
+      "bands": [
+        "Chê Lokêdo",
+        "Banda KN",
+        "Ricardo & Juninho"
+      ],
+      "bands_text": "Chê Lokêdo • Banda KN • Ricardo & Juninho",
+      "promo": "ELAS FREE ATÉ 23H",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/sextaca-che-lokedo-banda-kn-ricardo-juninho-elas-free-ate-23h__27119/",
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1311-sextaca__27125/"
+    },
+    {
+      "id_ingresso": "27120",
+      "id_reserva": "27126",
+      "date": "2026-11-14",
+      "day": "14",
+      "weekday": "SÁBADO",
+      "weekday_full": "Sábado",
+      "time": "22:00",
+      "name": "Sabadão Top",
+      "bands": [
+        "Musical JM",
+        "Ricardo & Juninho",
+        "Samuka & Brasinha"
+      ],
+      "bands_text": "Musical JM • Ricardo & Juninho • Samuka & Brasinha",
+      "promo": "",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/sabadao-top-musical-jm-ricardo-juninho-samuka-brasinha__27120/",
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1411-sabadao-top__27126/"
+    },
+    {
+      "id_ingresso": "27121",
+      "id_reserva": "27127",
+      "date": "2026-11-20",
+      "day": "20",
+      "weekday": "SEXTA",
+      "weekday_full": "Sexta-feira",
+      "time": "22:00",
+      "name": "Gigantes da Vanera",
+      "bands": [
+        "Os Serranos",
+        "Novos Garotos",
+        "Ricardo & Juninho"
+      ],
+      "bands_text": "Os Serranos • Novos Garotos • Ricardo & Juninho",
+      "promo": "",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/gigantes-da-vanera-os-serranos-novos-garotos-ricardo-juninho__27121/",
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-2011-gigantes-da-vanera__27127/"
+    },
+    {
+      "id_ingresso": "27122",
+      "id_reserva": "27128",
+      "date": "2026-11-21",
+      "day": "21",
+      "weekday": "SÁBADO",
+      "weekday_full": "Sábado",
+      "time": "22:00",
+      "name": "Flashback Hidden",
+      "bands": [
+        "Flashback Hidden"
+      ],
+      "bands_text": "Flashback Hidden",
+      "promo": "",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/flashback-hidden__27122/",
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-2111-flashback-hidden__27128/"
+    },
+    {
+      "id_ingresso": "27123",
+      "id_reserva": "27129",
+      "date": "2026-11-27",
+      "day": "27",
+      "weekday": "SEXTA",
+      "weekday_full": "Sexta-feira",
+      "time": "22:00",
+      "name": "Mega Baile da Sorte",
+      "bands": [
+        "Kamila Ferraz",
+        "To de Novo",
+        "Ricardo & Juninho"
+      ],
+      "bands_text": "Kamila Ferraz • To de Novo • Ricardo & Juninho",
+      "promo": "",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/mega-baile-da-sorte-kamila-ferraz-to-de-novo-ricardo-juninho__27123/",
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-2711-mega-baile-da-sorte__27129/"
+    },
+    {
+      "id_ingresso": "27124",
+      "id_reserva": "27130",
+      "date": "2026-11-28",
+      "day": "28",
+      "weekday": "SÁBADO",
+      "weekday_full": "Sábado",
+      "time": "22:00",
+      "name": "Sabadão Top",
+      "bands": [
+        "Sorriso Lindo",
+        "DJ Alef",
+        "Ricardo & Juninho"
+      ],
+      "bands_text": "Sorriso Lindo • DJ Alef • Ricardo & Juninho",
+      "promo": "",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/sabadao-top-sorriso-lindo-dj-alef-ricardo-juninho__27124/",
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-2811-sabadao-top__27130/"
     }
   ]
 }
