@@ -1,26 +1,7 @@
 {
   "month": "Novembro",
-  "updated_at": "2026-11-07T06:00:02",
+  "updated_at": "2026-11-07T07:00:02",
   "events": [
-    {
-      "id_ingresso": "26531",
-      "id_reserva": "26536",
-      "date": "2026-11-06",
-      "day": "06",
-      "weekday": "SEXTA",
-      "weekday_full": "Sexta-feira",
-      "time": "22:00",
-      "name": "Vai Tomar no Uno",
-      "bands": [
-        "Aloisio Silva",
-        "Grupo Garotaço",
-        "Ricardo e Juninho"
-      ],
-      "bands_text": "Aloisio Silva • Grupo Garotaço • Ricardo e Juninho",
-      "promo": "",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/vai-tomar-no-uno-aloisio-silva-grupo-garotaco-ricardo-e-juninho__26531/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-0611-vai-tomar-no-uno__26536/"
-    },
     {
       "id_ingresso": "27119",
       "id_reserva": "27125",
