@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-11-12T10:45:14.223713",
+  "updated_at": "2026-11-12T10:51:59.985403",
   "events": {
     "27125": {
       "date": "2026-11-13",
       "name": "Sextaça",
-      "occupied": []
+      "occupied": [
+        13
+      ]
     },
     "27126": {
       "date": "2026-11-14",
       "name": "Sabadão Top",
-      "occupied": [
-        13
-      ]
+      "occupied": []
     },
     "27127": {
       "date": "2026-11-20",
