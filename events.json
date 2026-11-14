@@ -1,26 +1,7 @@
 {
   "month": "Novembro",
-  "updated_at": "2026-11-14T06:00:04",
+  "updated_at": "2026-11-14T07:00:04",
   "events": [
-    {
-      "id_ingresso": "27119",
-      "id_reserva": "27125",
-      "date": "2026-11-13",
-      "day": "13",
-      "weekday": "SEXTA",
-      "weekday_full": "Sexta-feira",
-      "time": "22:00",
-      "name": "Sextaça",
-      "bands": [
-        "Chê Lokêdo",
-        "Banda KN",
-        "Ricardo & Juninho"
-      ],
-      "bands_text": "Chê Lokêdo • Banda KN • Ricardo & Juninho",
-      "promo": "ELAS FREE ATÉ 23H",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/sextaca-che-lokedo-banda-kn-ricardo-juninho-elas-free-ate-23h__27119/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1311-sextaca__27125/"
-    },
     {
       "id_ingresso": "27120",
       "id_reserva": "27126",
