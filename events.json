@@ -1,26 +1,7 @@
 {
   "month": "Novembro",
-  "updated_at": "2026-11-15T06:00:03",
+  "updated_at": "2026-11-20T01:00:02",
   "events": [
-    {
-      "id_ingresso": "27120",
-      "id_reserva": "27126",
-      "date": "2026-11-14",
-      "day": "14",
-      "weekday": "SÁBADO",
-      "weekday_full": "Sábado",
-      "time": "22:00",
-      "name": "Sabadão Top",
-      "bands": [
-        "Musical JM",
-        "Ricardo & Juninho",
-        "Samuka & Brasinha"
-      ],
-      "bands_text": "Musical JM • Ricardo & Juninho • Samuka & Brasinha",
-      "promo": "",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/sabadao-top-musical-jm-ricardo-juninho-samuka-brasinha__27120/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-1411-sabadao-top__27126/"
-    },
     {
       "id_ingresso": "27121",
       "id_reserva": "27127",
