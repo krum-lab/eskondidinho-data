@@ -1,6 +1,6 @@
 {
   "month": "Novembro",
-  "updated_at": "2026-11-22T18:00:03",
+  "updated_at": "2026-11-22T18:42:29",
   "events": [
     {
       "id_ingresso": "27123",
@@ -32,12 +32,12 @@
       "name": "Sabadão Top",
       "bands": [
         "Sorriso Lindo",
-        "DJ Alef",
-        "Ricardo & Juninho"
+        "Ricardo & Juninho",
+        "Samuka & Brasinha"
       ],
-      "bands_text": "Sorriso Lindo • DJ Alef • Ricardo & Juninho",
+      "bands_text": "Sorriso Lindo • Ricardo & Juninho • Samuka & Brasinha",
       "promo": "",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/sabadao-top-sorriso-lindo-dj-alef-ricardo-juninho__27124/",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/sabadao-top-sorriso-lindo-ricardo-juninho-samuka-brasinha__27124/",
       "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-2811-sabadao-top__27130/"
     }
   ]
