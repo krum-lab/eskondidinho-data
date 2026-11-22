@@ -1,24 +1,7 @@
 {
   "month": "Novembro",
-  "updated_at": "2026-11-22T06:00:02",
+  "updated_at": "2026-11-22T07:00:03",
   "events": [
-    {
-      "id_ingresso": "27122",
-      "id_reserva": "27128",
-      "date": "2026-11-21",
-      "day": "21",
-      "weekday": "SÁBADO",
-      "weekday_full": "Sábado",
-      "time": "22:00",
-      "name": "Flashback Hidden",
-      "bands": [
-        "Flashback Hidden"
-      ],
-      "bands_text": "Flashback Hidden",
-      "promo": "",
-      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/flashback-hidden__27122/",
-      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-2111-flashback-hidden__27128/"
-    },
     {
       "id_ingresso": "27123",
       "id_reserva": "27129",
