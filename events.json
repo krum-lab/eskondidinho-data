@@ -1,7 +1,43 @@
 {
   "month": "Novembro",
-  "updated_at": "2026-11-28T06:00:04",
+  "updated_at": "2026-11-28T07:00:02",
   "events": [
+    {
+      "id_ingresso": "27121",
+      "id_reserva": "27127",
+      "date": "2026-11-20",
+      "day": "20",
+      "weekday": "SEXTA",
+      "weekday_full": "Sexta-feira",
+      "time": "22:00",
+      "name": "Gigantes da Vanera",
+      "bands": [
+        "Os Serranos",
+        "Novos Garotos",
+        "Ricardo & Juninho"
+      ],
+      "bands_text": "Os Serranos • Novos Garotos • Ricardo & Juninho",
+      "promo": "",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/gigantes-da-vanera-os-serranos-novos-garotos-ricardo-juninho__27121/",
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-2011-gigantes-da-vanera__27127/"
+    },
+    {
+      "id_ingresso": "27122",
+      "id_reserva": "27128",
+      "date": "2026-11-21",
+      "day": "21",
+      "weekday": "SÁBADO",
+      "weekday_full": "Sábado",
+      "time": "22:00",
+      "name": "Flashback Hidden",
+      "bands": [
+        "Flashback Hidden"
+      ],
+      "bands_text": "Flashback Hidden",
+      "promo": "",
+      "link_ingresso": "https://eskondidinhoeventos.pagtickets.com.br/flashback-hidden__27122/",
+      "link_reserva": "https://eskondidinhoeventos.pagtickets.com.br/reservas-2111-flashback-hidden__27128/"
+    },
     {
       "id_ingresso": "27123",
       "id_reserva": "27129",
